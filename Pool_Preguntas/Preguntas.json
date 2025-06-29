@@ -1,0 +1,593 @@
+
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "opciones": ["A. Amazonas", "B. Nilo", "C. Misisipi", "D. Yangtsé"],
+      "respuesta_correcta": "A",
+      "tema": "geografia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿En qué continente se encuentra Kazajistán?",
+      "opciones": ["A. África", "B. Oceanía", "C. Asia", "D. Europa"],
+      "respuesta_correcta": "C",
+      "tema": "geografia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Canadá?",
+      "opciones": ["A. Toronto", "B. Vancouver", "C. Montreal", "D. Ottawa"],
+      "respuesta_correcta": "D",
+      "tema": "geografia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué país no tiene salida al mar?",
+      "opciones": ["A. Chile", "B. Ecuador", "C. Bolivia", "D. Perú"],
+      "respuesta_correcta": "C",
+      "tema": "geografia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿En qué país se encuentra el desierto del Sáhara?",
+      "opciones": ["A. India", "B. Arabia Saudita", "C. Australia", "D. Argelia"],
+      "respuesta_correcta": "D",
+      "tema": "geografia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué océano está entre África y Australia?",
+      "opciones": ["A. Océano Pacífico", "B. Océano Índico", "C. Océano Atlántico", "D. Océano Ártico"],
+      "respuesta_correcta": "B",
+      "tema": "geografia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál de estos países está en Europa?",
+      "opciones": ["A. Rumanía", "B. Irán", "C. Argelia", "D. Tailandia"],
+      "respuesta_correcta": "A",
+      "tema": "geografia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es la isla más grande del mundo?",
+      "opciones": ["A. Nueva Guinea", "B. Australia", "C. Groenlandia", "D. Madagascar"],
+      "respuesta_correcta": "C",
+      "tema": "geografia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Sudáfrica?",
+      "opciones": ["A. Pretoria", "B. Johannesburgo", "C. Durban", "D. Ciudad del Cabo"],
+      "respuesta_correcta": "A",
+      "tema": "geografia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el elemento químico con símbolo 'O'?",
+      "opciones": ["A. Oro", "B. Oxígeno", "C. Osmio", "D. Plomo"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué planeta es conocido como el Planeta Rojo?",
+      "opciones": ["A. Venus", "B. Júpiter", "C. Marte", "D. Saturno"],
+      "respuesta_correcta": "C",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué partícula subatómica tiene carga negativa?",
+      "opciones": ["A. Protón", "B. Neutrón", "C. Electrón", "D. Positrón"],
+      "respuesta_correcta": "C",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula química del agua?",
+      "opciones": ["A. H2O", "B. CO2", "C. O2", "D. NaCl"],
+      "respuesta_correcta": "A",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué órgano del cuerpo humano produce insulina?",
+      "opciones": ["A. Hígado", "B. Riñón", "C. Páncreas", "D. Corazón"],
+      "respuesta_correcta": "C",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es la unidad básica de la vida?",
+      "opciones": ["A. Molécula", "B. Célula", "C. Tejido", "D. Órgano"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Quién propuso la teoría de la relatividad?",
+      "opciones": ["A. Isaac Newton", "B. Galileo Galilei", "C. Albert Einstein", "D. Nikola Tesla"],
+      "respuesta_correcta": "C",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué gas es fundamental para la respiración humana?",
+      "opciones": ["A. Nitrógeno", "B. Oxígeno", "C. Dióxido de carbono", "D. Helio"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": ["A. Saturno", "B. Júpiter", "C. Neptuno", "D. Urano"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el metal más ligero?",
+      "opciones": ["A. Aluminio", "B. Litio", "C. Hierro", "D. Cobre"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿En qué año llegó el hombre a la Luna por primera vez?",
+      "opciones": ["A. 1965", "B. 1969", "C. 1972", "D. 1959"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué instrumento mide la presión atmosférica?",
+      "opciones": ["A. Barómetro", "B. Termómetro", "C. Anemómetro", "D. Higrómetro"],
+      "respuesta_correcta": "A",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
+      "opciones": ["A. Electromagnética", "B. Gravitacional", "C. Nuclear fuerte", "D. Nuclear débil"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el ácido presente en el estómago humano?",
+      "opciones": ["A. Ácido sulfúrico", "B. Ácido clorhídrico", "C. Ácido acético", "D. Ácido láctico"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué científico formuló las leyes del movimiento?",
+      "opciones": ["A. Albert Einstein", "B. Isaac Newton", "C. Galileo Galilei", "D. Marie Curie"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "opciones": ["A. Hígado", "B. Corazón", "C. Piel", "D. Pulmón"],
+      "respuesta_correcta": "C",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué planeta tiene anillos visibles desde la Tierra?",
+      "opciones": ["A. Júpiter", "B. Saturno", "C. Urano", "D. Neptuno"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el elemento más abundante en la atmósfera terrestre?",
+      "opciones": ["A. Oxígeno", "B. Nitrógeno", "C. Argón", "D. Dióxido de carbono"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué tipo de energía produce el Sol?",
+      "opciones": ["A. Nuclear", "B. Eólica", "C. Geotérmica", "D. Hidráulica"],
+      "respuesta_correcta": "A",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es la velocidad de la luz aproximada en el vacío?",
+      "opciones": ["A. 300,000 km/s", "B. 150,000 km/s", "C. 100,000 km/s", "D. 500,000 km/s"],
+      "respuesta_correcta": "A",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Quién pintó 'La última cena'?",
+      "opciones": ["A. Miguel Ángel", "B. Leonardo da Vinci", "C. Rafael", "D. Caravaggio"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿En qué país se encuentra el Museo del Louvre?",
+      "opciones": ["A. España", "B. Francia", "C. Italia", "D. Alemania"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el estilo artístico de Picasso conocido por formas geométricas?",
+      "opciones": ["A. Surrealismo", "B. Cubismo", "C. Impresionismo", "D. Barroco"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Quién pintó la Capilla Sixtina?",
+      "opciones": ["A. Leonardo da Vinci", "B. Miguel Ángel", "C. Donatello", "D. Rafael"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué tipo de pintura utiliza pigmentos mezclados con agua?",
+      "opciones": ["A. Óleo", "B. Acuarela", "C. Acrílico", "D. Temple"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es la técnica de escultura que usa madera?",
+      "opciones": ["A. Talla", "B. Fundición", "C. Modelado", "D. Ensamblaje"],
+      "respuesta_correcta": "A",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué artista es famoso por sus pinturas de girasoles?",
+      "opciones": ["A. Van Gogh", "B. Monet", "C. Degas", "D. Matisse"],
+      "respuesta_correcta": "A",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿En qué ciudad se encuentra el Museo del Prado?",
+      "opciones": ["A. Barcelona", "B. Sevilla", "C. Madrid", "D. Valencia"],
+      "respuesta_correcta": "C",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué estilo artístico es conocido por su uso de luz y sombra dramática?",
+      "opciones": ["A. Barroco", "B. Rococó", "C. Neoclasicismo", "D. Romanticismo"],
+      "respuesta_correcta": "A",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué escultor creó 'El Pensador'?",
+      "opciones": ["A. Rodin", "B. Bernini", "C. Michelangelo", "D. Donatello"],
+      "respuesta_correcta": "A",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el nombre del movimiento artístico asociado con Salvador Dalí?",
+      "opciones": ["A. Cubismo", "B. Surrealismo", "C. Impresionismo", "D. Expresionismo"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por el arte ukiyo-e?",
+      "opciones": ["A. China", "B. Japón", "C. Corea", "D. Tailandia"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué cordillera se encuentra en América del Sur?",
+      "opciones": ["A. Alpes", "B. Himalaya", "C. Andes", "D. Rocosas"],
+      "respuesta_correcta": "C",
+      "tema": "geografia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "opciones": ["A. 1914", "B. 1939", "C. 1945", "D. 1929"],
+      "respuesta_correcta": "B",
+      "tema": "historia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+      "opciones": ["A. Abraham Lincoln", "B. Thomas Jefferson", "C. John Adams", "D. George Washington"],
+      "respuesta_correcta": "D",
+      "tema": "historia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué imperio construyó la Gran Muralla China?",
+      "opciones": ["A. Imperio Mongol", "B. Imperio Persa", "C. Imperio Qin", "D. Imperio Romano"],
+      "respuesta_correcta": "C",
+      "tema": "historia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Quién fue el líder de la Revolución Rusa de 1917?",
+      "opciones": ["A. Nicolás II", "B. León Trotski", "C. Vladimir Lenin", "D. Josef Stalin"],
+      "respuesta_correcta": "C",
+      "tema": "historia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+      "opciones": ["A. 1789", "B. 1812", "C. 1754", "D. 1776"],
+      "respuesta_correcta": "D",
+      "tema": "historia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál fue la civilización que construyó Machu Picchu?",
+      "opciones": ["A. Maya", "B. Olmeca", "C. Inca", "D. Azteca"],
+      "respuesta_correcta": "C",
+      "tema": "historia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Quién fue conocido como 'El Libertador' en Sudamérica?",
+      "opciones": ["A. Bernardo O’Higgins", "B. Antonio José de Sucre", "C. Simón Bolívar", "D. José de San Martín"],
+      "respuesta_correcta": "C",
+      "tema": "historia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué evento marcó el fin de la Edad Media?",
+      "opciones": ["A. La Guerra de los Cien Años", "B. La Revolución Francesa", "C. El descubrimiento de América", "D. La caída de Constantinopla"],
+      "respuesta_correcta": "D",
+      "tema": "historia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Quién fue el faraón egipcio durante la construcción de la Gran Pirámide de Guiza?",
+      "opciones": ["A. Akhenatón", "B. Tutankamón", "C. Ramsés II", "D. Keops"],
+      "respuesta_correcta": "D",
+      "tema": "historia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál fue el motivo principal de la Revolución Francesa?",
+      "opciones": ["A. Expansión territorial", "B. Influencia napoleónica", "C. Crisis económica mundial", "D. Lucha contra la monarquía absoluta"],
+      "respuesta_correcta": "D",
+      "tema": "historia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el elemento químico con símbolo 'O'?",
+      "opciones": ["A. Oro", "B. Oxígeno", "C. Osmio", "D. Plomo"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué planeta es conocido como el Planeta Rojo?",
+      "opciones": ["A. Venus", "B. Júpiter", "C. Marte", "D. Saturno"],
+      "respuesta_correcta": "C",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué partícula subatómica tiene carga negativa?",
+      "opciones": ["A. Protón", "B. Neutrón", "C. Electrón", "D. Positrón"],
+      "respuesta_correcta": "C",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula química del agua?",
+      "opciones": ["A. H2O", "B. CO2", "C. O2", "D. NaCl"],
+      "respuesta_correcta": "A",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué órgano del cuerpo humano produce insulina?",
+      "opciones": ["A. Hígado", "B. Riñón", "C. Páncreas", "D. Corazón"],
+      "respuesta_correcta": "C",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es la unidad básica de la vida?",
+      "opciones": ["A. Molécula", "B. Célula", "C. Tejido", "D. Órgano"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Quién propuso la teoría de la relatividad?",
+      "opciones": ["A. Isaac Newton", "B. Galileo Galilei", "C. Albert Einstein", "D. Nikola Tesla"],
+      "respuesta_correcta": "C",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué gas es fundamental para la respiración humana?",
+      "opciones": ["A. Nitrógeno", "B. Oxígeno", "C. Dióxido de carbono", "D. Helio"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": ["A. Saturno", "B. Júpiter", "C. Neptuno", "D. Urano"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el metal más ligero?",
+      "opciones": ["A. Aluminio", "B. Litio", "C. Hierro", "D. Cobre"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿En qué año llegó el hombre a la Luna por primera vez?",
+      "opciones": ["A. 1965", "B. 1969", "C. 1972", "D. 1959"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué instrumento mide la presión atmosférica?",
+      "opciones": ["A. Barómetro", "B. Termómetro", "C. Anemómetro", "D. Higrómetro"],
+      "respuesta_correcta": "A",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
+      "opciones": ["A. Electromagnética", "B. Gravitacional", "C. Nuclear fuerte", "D. Nuclear débil"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el ácido presente en el estómago humano?",
+      "opciones": ["A. Ácido sulfúrico", "B. Ácido clorhídrico", "C. Ácido acético", "D. Ácido láctico"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué científico formuló las leyes del movimiento?",
+      "opciones": ["A. Albert Einstein", "B. Isaac Newton", "C. Galileo Galilei", "D. Marie Curie"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "opciones": ["A. Hígado", "B. Corazón", "C. Piel", "D. Pulmón"],
+      "respuesta_correcta": "C",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué planeta tiene anillos visibles desde la Tierra?",
+      "opciones": ["A. Júpiter", "B. Saturno", "C. Urano", "D. Neptuno"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el elemento más abundante en la atmósfera terrestre?",
+      "opciones": ["A. Oxígeno", "B. Nitrógeno", "C. Argón", "D. Dióxido de carbono"],
+      "respuesta_correcta": "B",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué tipo de energía produce el Sol?",
+      "opciones": ["A. Nuclear", "B. Eólica", "C. Geotérmica", "D. Hidráulica"],
+      "respuesta_correcta": "A",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es la velocidad de la luz aproximada en el vacío?",
+      "opciones": ["A. 300,000 km/s", "B. 150,000 km/s", "C. 100,000 km/s", "D. 500,000 km/s"],
+      "respuesta_correcta": "A",
+      "tema": "ciencia",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Quién pintó 'La última cena'?",
+      "opciones": ["A. Miguel Ángel", "B. Leonardo da Vinci", "C. Rafael", "D. Caravaggio"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿En qué país se encuentra el Museo del Louvre?",
+      "opciones": ["A. España", "B. Francia", "C. Italia", "D. Alemania"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el estilo artístico de Picasso conocido por formas geométricas?",
+      "opciones": ["A. Surrealismo", "B. Cubismo", "C. Impresionismo", "D. Barroco"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Quién pintó la Capilla Sixtina?",
+      "opciones": ["A. Leonardo da Vinci", "B. Miguel Ángel", "C. Donatello", "D. Rafael"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué tipo de pintura utiliza pigmentos mezclados con agua?",
+      "opciones": ["A. Óleo", "B. Acuarela", "C. Acrílico", "D. Temple"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es la técnica de escultura que usa madera?",
+      "opciones": ["A. Talla", "B. Fundición", "C. Modelado", "D. Ensamblaje"],
+      "respuesta_correcta": "A",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué artista es famoso por sus pinturas de girasoles?",
+      "opciones": ["A. Van Gogh", "B. Monet", "C. Degas", "D. Matisse"],
+      "respuesta_correcta": "A",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿En qué ciudad se encuentra el Museo del Prado?",
+      "opciones": ["A. Barcelona", "B. Sevilla", "C. Madrid", "D. Valencia"],
+      "respuesta_correcta": "C",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué estilo artístico es conocido por su uso de luz y sombra dramática?",
+      "opciones": ["A. Barroco", "B. Rococó", "C. Neoclasicismo", "D. Romanticismo"],
+      "respuesta_correcta": "A",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué escultor creó 'El Pensador'?",
+      "opciones": ["A. Rodin", "B. Bernini", "C. Michelangelo", "D. Donatello"],
+      "respuesta_correcta": "A",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Cuál es el nombre del movimiento artístico asociado con Salvador Dalí?",
+      "opciones": ["A. Cubismo", "B. Surrealismo", "C. Impresionismo", "D. Expresionismo"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por el arte ukiyo-e?",
+      "opciones": ["A. China", "B. Japón", "C. Corea", "D. Tailandia"],
+      "respuesta_correcta": "B",
+      "tema": "arte",
+      "dificultad": "medio"
+    }
+]
+}

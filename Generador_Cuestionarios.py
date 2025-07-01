@@ -4,7 +4,7 @@ from Funcionalidades.Cuestionario import *
 
 pool_preguntas = []
 with open ("Pool_Preguntas/preguntas.json", encoding="utf-8") as preguntas:
-    pool_preguntas = json.load(preguntas)["preguntas"]
+    pool_preguntas = json.load(preguntas)
 
 def string_menu_principal():
     menu = """###MENÚ###

@@ -1,5 +1,7 @@
 
 import random
+from inputimeout import inputimeout, TimeoutOccurred
+import time
 
 def string_elegir_tema():
     menu = """Elige un tema para las preguntas:
@@ -110,8 +112,8 @@ def elegir_numero_preguntas():
             print("Opción no válida, por favor introduce una de las opciones de la lista.")
         elif int(numero_preguntas) < 10:
             print("El cuestionario debe tener al menos 10 preguntas.")
-        elif int(numero_preguntas) > 100:
-            print("El cuestionario debe tener como máximo 100 preguntas.")
+        elif int(numero_preguntas) > 50:
+            print("El cuestionario debe tener como máximo 50 preguntas.")
         else:
             return int(numero_preguntas)
 
@@ -131,6 +133,8 @@ def crear_cuestionario(tema, dificultad, numero_preguntas, pool_preguntas):
         cuestionario.append(pregunta)
         pool_cuestionario.remove(pregunta)
     print(f"CREANDO CUESTIONARIO")
+    print("Ten en cuenta que tienes 10 segundos para responder a cada pregunta.")
+    time.sleep(1)
     return cuestionario
 
 def menu_cuestionario(pool_preguntas):
@@ -149,22 +153,31 @@ def mostrar_pregunta(pregunta_cuestionario):
 
 def obtener_respuesta():
     respuesta = ""
+    tiempo_respuesta = 10
+    tiempo_inicio = time.time()
     while not (respuesta == "A" or respuesta == "B" or respuesta == "C" or respuesta == "D"):
-        input_usuario = input("¿Cuál es tu respuesta?\n")
-        if input_usuario.upper() == "A":
-            respuesta = "A"
-        elif input_usuario.upper() == "B":
-            respuesta = "B"
-        elif input_usuario.upper() == "C":
-            respuesta = "C"
-        elif input_usuario.upper() == "D":
-            respuesta = "D"
-        else:
-            print("Opción no válida, por favor introduce una de las opciones de la lista.")
+        try:
+            tiempo_restante = tiempo_respuesta -(time.time() - tiempo_inicio)
+            input_usuario = inputimeout("¿Cuál es tu respuesta?\n", timeout = tiempo_restante)
+            if input_usuario.upper() == "A":
+                respuesta = "A"
+            elif input_usuario.upper() == "B":
+                respuesta = "B"
+            elif input_usuario.upper() == "C":
+                respuesta = "C"
+            elif input_usuario.upper() == "D":
+                respuesta = "D"
+            else:
+                print("Opción no válida, por favor introduce una de las opciones de la lista.")
+        except TimeoutOccurred:
+            print("¡Tiempo agotado!")
+            return None
     return respuesta
 
 def corregir_pregunta(respuesta, pregunta):
-    if respuesta == pregunta['respuesta_correcta']:
+    if respuesta is None:
+        return 0
+    elif respuesta == pregunta['respuesta_correcta']:
         print("¡Respuesta correcta!")
         return 1
     else:

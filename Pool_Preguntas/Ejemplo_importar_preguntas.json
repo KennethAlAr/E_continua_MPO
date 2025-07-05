@@ -1,0 +1,26 @@
+[
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "opciones": [
+      "A. Madrid",
+      "B. Londres",
+      "C. Roma",
+      "D. París"
+    ],
+    "respuesta_correcta": "D",
+    "tema": "geografia",
+    "dificultad": "muy_facil"
+  },
+  {
+    "pregunta": "¿En qué continente está Brasil?",
+    "opciones": [
+      "A. África",
+      "B. Europa",
+      "C. Asia",
+      "D. América"
+    ],
+    "respuesta_correcta": "D",
+    "tema": "geografia",
+    "dificultad": "muy_facil"
+  }
+]

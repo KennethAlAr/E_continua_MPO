@@ -103,21 +103,7 @@ def elegir_dificultad():
         except ValueError:
             print("Opción no válida, por favor introduce una de las opciones de la lista.")
 
-def elegir_numero_preguntas():
-    while True:
-        numero_preguntas = input("Escribe el número de preguntas que quieres en tu cuestionario o 'salir' para salir.\n")
-        if numero_preguntas.lower() == "salir":
-            print("Saliendo del modo cuestionario.")
-        elif not numero_preguntas.isdigit():
-            print("Opción no válida, por favor introduce una de las opciones de la lista.")
-        elif int(numero_preguntas) < 10:
-            print("El cuestionario debe tener al menos 10 preguntas.")
-        elif int(numero_preguntas) > 50:
-            print("El cuestionario debe tener como máximo 50 preguntas.")
-        else:
-            return int(numero_preguntas)
-
-def crear_cuestionario(tema, dificultad, numero_preguntas, pool_preguntas):
+def crear_cuestionario(tema, dificultad, pool_preguntas):
     #Creamos un pool de preguntas para el cuestionario que coincida con el tema y la dificultad escogida.
     pool_cuestionario = []
     for pregunta in pool_preguntas:
@@ -126,13 +112,22 @@ def crear_cuestionario(tema, dificultad, numero_preguntas, pool_preguntas):
                 pool_cuestionario.append(pregunta)
             elif pregunta['tema'] == tema:
                 pool_cuestionario.append(pregunta)
+    #Comprobamos si hay preguntas sobre el tema y la dificultad escogidos.
+    if len(pool_cuestionario) == 0:
+        print("No hay preguntas sobre el tema escogido en la dificultad escogida.")
+        return "salir"
     #Creamos un cuestionario escogiendo de manera aleatoria N preguntas del pool de preguntas sin que se repitan.
+    #El cuestionario tendrá tantas preguntas como preguntas haya en el pool_cuestionario hasta un máximo de 20 preguntas.
     cuestionario = []
+    if len(pool_cuestionario) < 20:
+        numero_preguntas = len(pool_cuestionario)
+    else:
+        numero_preguntas = 20
     for i in range(numero_preguntas):
         pregunta = random.choice(pool_cuestionario)
         cuestionario.append(pregunta)
         pool_cuestionario.remove(pregunta)
-    print(f"CREANDO CUESTIONARIO")
+    print(f"CREANDO CUESTIONARIO CON {numero_preguntas} PREGUNTAS:")
     print("Ten en cuenta que tienes 10 segundos para responder a cada pregunta.")
     time.sleep(1)
     return cuestionario
@@ -142,10 +137,10 @@ def menu_cuestionario(pool_preguntas):
     if not tema == "salir":
         dificultad = elegir_dificultad()
         if not dificultad == "salir":
-            numero_preguntas = elegir_numero_preguntas()
-            if not numero_preguntas == "salir":
-                cuestionario = crear_cuestionario(tema, dificultad, numero_preguntas, pool_preguntas)
-                return cuestionario
+            cuestionario = crear_cuestionario(tema, dificultad, pool_preguntas)
+            if cuestionario == "salir":
+                return "salir"
+            return cuestionario
 
 def mostrar_pregunta(pregunta_cuestionario):
     print(pregunta_cuestionario['pregunta'])
@@ -206,6 +201,8 @@ Porcentaje de aciertos: {round(porcentaje)}%
     return resumen
 
 def realizar_cuestionario(cuestionario):
+    if cuestionario == "salir":
+        return
     aciertos = 0
     for pregunta in cuestionario:
         mostrar_pregunta(pregunta)

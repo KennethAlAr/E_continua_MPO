@@ -240,522 +240,6 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿En qué continente está Brasil?",
-    "opciones": [
-      "A. Asia",
-      "B. América",
-      "C. África",
-      "D. Europa"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué océano baña la costa este de Estados Unidos?",
-    "opciones": [
-      "A. Ártico",
-      "B. Pacífico",
-      "C. Atlántico",
-      "D. Índico"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es el desierto más grande del mundo?",
-    "opciones": [
-      "A. Sahara",
-      "B. Kalahari",
-      "C. Atacama",
-      "D. Gobi"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más grande del mundo?",
-    "opciones": [
-      "A. Rusia",
-      "B. China",
-      "C. Canadá",
-      "D. Estados Unidos"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Italia?",
-    "opciones": [
-      "A. Berlín",
-      "B. Roma",
-      "C. París",
-      "D. Lisboa"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué país tiene forma de bota?",
-    "opciones": [
-      "A. Francia",
-      "B. Italia",
-      "C. España",
-      "D. Grecia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿En qué continente está Egipto?",
-    "opciones": [
-      "A. Asia",
-      "B. Oceanía",
-      "C. Europa",
-      "D. África"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué mar está entre Europa y África?",
-    "opciones": [
-      "A. Mediterráneo",
-      "B. Rojo",
-      "C. Báltico",
-      "D. Negro"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Dónde se encuentra la Gran Muralla?",
-    "opciones": [
-      "A. Japón",
-      "B. China",
-      "C. Corea",
-      "D. India"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué isla está al sureste de África?",
-    "opciones": [
-      "A. Islandia",
-      "B. Sri Lanka",
-      "C. Madagascar",
-      "D. Hawái"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de España?",
-    "opciones": [
-      "A. Barcelona",
-      "B. Sevilla",
-      "C. Valencia",
-      "D. Madrid"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué país tiene la ciudad de Tokio?",
-    "opciones": [
-      "A. Corea",
-      "B. China",
-      "C. Vietnam",
-      "D. Japón"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿En qué país está el río Amazonas?",
-    "opciones": [
-      "A. Brasil",
-      "B. Colombia",
-      "C. Perú",
-      "D. Argentina"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Alemania?",
-    "opciones": [
-      "A. Colonia",
-      "B. Hamburgo",
-      "C. Berlín",
-      "D. Múnich"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué continente es conocido como 'el viejo continente'?",
-    "opciones": [
-      "A. América",
-      "B. Europa",
-      "C. África",
-      "D. Asia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué país es famoso por sus tulipanes?",
-    "opciones": [
-      "A. Suiza",
-      "B. Dinamarca",
-      "C. Países Bajos",
-      "D. Bélgica"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Dónde está el Taj Mahal?",
-    "opciones": [
-      "A. India",
-      "B. Pakistán",
-      "C. Bangladés",
-      "D. Nepal"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Francia?",
-    "opciones": [
-      "A. Roma",
-      "B. Londres",
-      "C. París",
-      "D. Madrid"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es el desierto más grande del mundo?",
-    "opciones": [
-      "A. Atacama",
-      "B. Sahara",
-      "C. Gobi",
-      "D. Kalahari"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿En qué continente está Egipto?",
-    "opciones": [
-      "A. Asia",
-      "B. Europa",
-      "C. África",
-      "D. Oceanía"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Dónde está el monte Everest?",
-    "opciones": [
-      "A. India",
-      "B. China",
-      "C. Nepal",
-      "D. Bután"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué continente es conocido como 'el viejo continente'?",
-    "opciones": [
-      "A. Europa",
-      "B. África",
-      "C. Asia",
-      "D. América"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué país es famoso por sus tulipanes?",
-    "opciones": [
-      "A. Dinamarca",
-      "B. Países Bajos",
-      "C. Bélgica",
-      "D. Suiza"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Dónde está el Taj Mahal?",
-    "opciones": [
-      "A. Nepal",
-      "B. Pakistán",
-      "C. India",
-      "D. Bangladés"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Francia?",
-    "opciones": [
-      "A. París",
-      "B. Roma",
-      "C. Madrid",
-      "D. Londres"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué océano baña la costa este de Estados Unidos?",
-    "opciones": [
-      "A. Pacífico",
-      "B. Índico",
-      "C. Ártico",
-      "D. Atlántico"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es el desierto más grande del mundo?",
-    "opciones": [
-      "A. Atacama",
-      "B. Gobi",
-      "C. Kalahari",
-      "D. Sahara"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más grande del mundo?",
-    "opciones": [
-      "A. China",
-      "B. Estados Unidos",
-      "C. Rusia",
-      "D. Canadá"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Italia?",
-    "opciones": [
-      "A. Lisboa",
-      "B. París",
-      "C. Roma",
-      "D. Berlín"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿En qué continente está Egipto?",
-    "opciones": [
-      "A. Asia",
-      "B. África",
-      "C. Oceanía",
-      "D. Europa"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué mar está entre Europa y África?",
-    "opciones": [
-      "A. Báltico",
-      "B. Rojo",
-      "C. Negro",
-      "D. Mediterráneo"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué país es famoso por la Torre Eiffel?",
-    "opciones": [
-      "A. Reino Unido",
-      "B. Francia",
-      "C. Alemania",
-      "D. Italia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de España?",
-    "opciones": [
-      "A. Madrid",
-      "B. Barcelona",
-      "C. Sevilla",
-      "D. Valencia"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué país tiene la ciudad de Tokio?",
-    "opciones": [
-      "A. Vietnam",
-      "B. Japón",
-      "C. China",
-      "D. Corea"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿En qué país está el río Amazonas?",
-    "opciones": [
-      "A. Argentina",
-      "B. Brasil",
-      "C. Perú",
-      "D. Colombia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Dónde está el monte Everest?",
-    "opciones": [
-      "A. Nepal",
-      "B. Bután",
-      "C. China",
-      "D. India"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Alemania?",
-    "opciones": [
-      "A. Colonia",
-      "B. Berlín",
-      "C. Hamburgo",
-      "D. Múnich"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué continente es conocido como 'el viejo continente'?",
-    "opciones": [
-      "A. América",
-      "B. África",
-      "C. Asia",
-      "D. Europa"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿En qué continente está Brasil?",
-    "opciones": [
-      "A. América",
-      "B. África",
-      "C. Europa",
-      "D. Asia"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué país tiene forma de bota?",
-    "opciones": [
-      "A. Grecia",
-      "B. España",
-      "C. Italia",
-      "D. Francia"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué país es famoso por la Torre Eiffel?",
-    "opciones": [
-      "A. Francia",
-      "B. Reino Unido",
-      "C. Alemania",
-      "D. Italia"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué isla está al sureste de África?",
-    "opciones": [
-      "A. Madagascar",
-      "B. Hawái",
-      "C. Sri Lanka",
-      "D. Islandia"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Dónde está el monte Everest?",
-    "opciones": [
-      "A. India",
-      "B. Nepal",
-      "C. Bután",
-      "D. China"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
     "pregunta": "¿Cuál es el río más largo del mundo?",
     "opciones": [
       "A. Nilo",
@@ -990,594 +474,6 @@
       "B. Varsovia",
       "C. Berlín",
       "D. Praga"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el río más largo del mundo?",
-    "opciones": [
-      "A. Yangtsé",
-      "B. Misisipi",
-      "C. Amazonas",
-      "D. Nilo"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿En qué continente se encuentra Kazajistán?",
-    "opciones": [
-      "A. África",
-      "B. Europa",
-      "C. Oceanía",
-      "D. Asia"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Australia?",
-    "opciones": [
-      "A. Melbourne",
-      "B. Sídney",
-      "C. Brisbane",
-      "D. Canberra"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué país tiene más volcanes activos?",
-    "opciones": [
-      "A. Indonesia",
-      "B. Islandia",
-      "C. Italia",
-      "D. Japón"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más poblado del mundo?",
-    "opciones": [
-      "A. Estados Unidos",
-      "B. India",
-      "C. Indonesia",
-      "D. China"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué mar baña las costas de Ucrania?",
-    "opciones": [
-      "A. Báltico",
-      "B. Adriático",
-      "C. Rojo",
-      "D. Negro"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el punto más bajo de la Tierra?",
-    "opciones": [
-      "A. Mar Muerto",
-      "B. Lago Baikal",
-      "C. Gran Cañón",
-      "D. Fosa de las Marianas"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿En qué país se encuentra el Kilimanjaro?",
-    "opciones": [
-      "A. Etiopía",
-      "B. Uganda",
-      "C. Kenia",
-      "D. Tanzania"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué país limita con más países?",
-    "opciones": [
-      "A. Rusia",
-      "B. Alemania",
-      "C. China",
-      "D. Brasil"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué país tiene la mayor cantidad de islas?",
-    "opciones": [
-      "A. Indonesia",
-      "B. Suecia",
-      "C. Filipinas",
-      "D. Noruega"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más pequeño del mundo?",
-    "opciones": [
-      "A. Mónaco",
-      "B. San Marino",
-      "C. Vaticano",
-      "D. Nauru"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más joven del mundo?",
-    "opciones": [
-      "A. Timor Oriental",
-      "B. Sudán del Sur",
-      "C. Eritrea",
-      "D. Kosovo"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el archipiélago español en el Atlántico?",
-    "opciones": [
-      "A. Azores",
-      "B. Canarias",
-      "C. Baleares",
-      "D. Madeira"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿En qué país está el desierto del Gobi?",
-    "opciones": [
-      "A. China",
-      "B. Mongolia",
-      "C. Irán",
-      "D. Afganistán"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más grande de África?",
-    "opciones": [
-      "A. Congo",
-      "B. Libia",
-      "C. Argelia",
-      "D. Sudán"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué ciudad está dividida por un muro hasta 1989?",
-    "opciones": [
-      "A. Praga",
-      "B. Berlín",
-      "C. Varsovia",
-      "D. Viena"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el río más largo del mundo?",
-    "opciones": [
-      "A. Amazonas",
-      "B. Yangtsé",
-      "C. Nilo",
-      "D. Misisipi"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿En qué continente se encuentra Kazajistán?",
-    "opciones": [
-      "A. Oceanía",
-      "B. Asia",
-      "C. África",
-      "D. Europa"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué país tiene más volcanes activos?",
-    "opciones": [
-      "A. Japón",
-      "B. Islandia",
-      "C. Indonesia",
-      "D. Italia"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué cordillera se encuentra en América del Sur?",
-    "opciones": [
-      "A. Himalaya",
-      "B. Alpes",
-      "C. Rocosas",
-      "D. Andes"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más poblado del mundo?",
-    "opciones": [
-      "A. Indonesia",
-      "B. China",
-      "C. Estados Unidos",
-      "D. India"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué mar baña las costas de Ucrania?",
-    "opciones": [
-      "A. Negro",
-      "B. Adriático",
-      "C. Báltico",
-      "D. Rojo"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿En qué país se encuentra el Kilimanjaro?",
-    "opciones": [
-      "A. Kenia",
-      "B. Tanzania",
-      "C. Etiopía",
-      "D. Uganda"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué país limita con más países?",
-    "opciones": [
-      "A. China",
-      "B. Rusia",
-      "C. Brasil",
-      "D. Alemania"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Canadá?",
-    "opciones": [
-      "A. Vancouver",
-      "B. Toronto",
-      "C. Ottawa",
-      "D. Montreal"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué país tiene la mayor cantidad de islas?",
-    "opciones": [
-      "A. Noruega",
-      "B. Indonesia",
-      "C. Filipinas",
-      "D. Suecia"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el lago más grande de África?",
-    "opciones": [
-      "A. Malaui",
-      "B. Victoria",
-      "C. Tanganica",
-      "D. Turkana"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más pequeño del mundo?",
-    "opciones": [
-      "A. San Marino",
-      "B. Vaticano",
-      "C. Mónaco",
-      "D. Nauru"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más joven del mundo?",
-    "opciones": [
-      "A. Sudán del Sur",
-      "B. Kosovo",
-      "C. Eritrea",
-      "D. Timor Oriental"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país con más fronteras terrestres?",
-    "opciones": [
-      "A. China",
-      "B. Brasil",
-      "C. India",
-      "D. Rusia"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué ciudad está dividida por un muro hasta 1989?",
-    "opciones": [
-      "A. Varsovia",
-      "B. Viena",
-      "C. Praga",
-      "D. Berlín"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el río más largo del mundo?",
-    "opciones": [
-      "A. Nilo",
-      "B. Misisipi",
-      "C. Yangtsé",
-      "D. Amazonas"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Australia?",
-    "opciones": [
-      "A. Canberra",
-      "B. Sídney",
-      "C. Brisbane",
-      "D. Melbourne"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué cordillera se encuentra en América del Sur?",
-    "opciones": [
-      "A. Alpes",
-      "B. Andes",
-      "C. Rocosas",
-      "D. Himalaya"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué mar baña las costas de Ucrania?",
-    "opciones": [
-      "A. Adriático",
-      "B. Negro",
-      "C. Rojo",
-      "D. Báltico"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el punto más bajo de la Tierra?",
-    "opciones": [
-      "A. Fosa de las Marianas",
-      "B. Mar Muerto",
-      "C. Gran Cañón",
-      "D. Lago Baikal"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Canadá?",
-    "opciones": [
-      "A. Ottawa",
-      "B. Montreal",
-      "C. Toronto",
-      "D. Vancouver"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más pequeño del mundo?",
-    "opciones": [
-      "A. Vaticano",
-      "B. Mónaco",
-      "C. Nauru",
-      "D. San Marino"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más joven del mundo?",
-    "opciones": [
-      "A. Timor Oriental",
-      "B. Kosovo",
-      "C. Eritrea",
-      "D. Sudán del Sur"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el archipiélago español en el Atlántico?",
-    "opciones": [
-      "A. Azores",
-      "B. Baleares",
-      "C. Madeira",
-      "D. Canarias"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿En qué país está el desierto del Gobi?",
-    "opciones": [
-      "A. China",
-      "B. Afganistán",
-      "C. Mongolia",
-      "D. Irán"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más grande de África?",
-    "opciones": [
-      "A. Libia",
-      "B. Argelia",
-      "C. Congo",
-      "D. Sudán"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país con más fronteras terrestres?",
-    "opciones": [
-      "A. Brasil",
-      "B. Rusia",
-      "C. India",
-      "D. China"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué ciudad está dividida por un muro hasta 1989?",
-    "opciones": [
-      "A. Berlín",
-      "B. Viena",
-      "C. Varsovia",
-      "D. Praga"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Australia?",
-    "opciones": [
-      "A. Brisbane",
-      "B. Sídney",
-      "C. Canberra",
-      "D. Melbourne"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más poblado del mundo?",
-    "opciones": [
-      "A. China",
-      "B. India",
-      "C. Indonesia",
-      "D. Estados Unidos"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué país limita con más países?",
-    "opciones": [
-      "A. Brasil",
-      "B. China",
-      "C. Alemania",
-      "D. Rusia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el lago más grande de África?",
-    "opciones": [
-      "A. Victoria",
-      "B. Tanganica",
-      "C. Malaui",
-      "D. Turkana"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el país con más fronteras terrestres?",
-    "opciones": [
-      "A. India",
-      "B. Brasil",
-      "C. China",
-      "D. Rusia"
     ],
     "respuesta_correcta": "C",
     "tema": "geografia",
@@ -1820,546 +716,6 @@
       "D. Guyana"
     ],
     "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Kazajistán?",
-    "opciones": [
-      "A. Almaty",
-      "B. Taskent",
-      "C. Astaná",
-      "D. Bishkek"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país no tiene salida al mar?",
-    "opciones": [
-      "A. Portugal",
-      "B. Bolivia",
-      "C. Ecuador",
-      "D. Vietnam"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Sudáfrica?",
-    "opciones": [
-      "A. Pretoria",
-      "B. Durban",
-      "C. Ciudad del Cabo",
-      "D. Johannesburgo"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿En qué país se encuentra el lago Titicaca?",
-    "opciones": [
-      "A. Ecuador",
-      "B. Bolivia",
-      "C. Perú",
-      "D. Chile"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país tiene más husos horarios?",
-    "opciones": [
-      "A. Francia",
-      "B. Rusia",
-      "C. China",
-      "D. Estados Unidos"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Dónde está el estrecho de Bering?",
-    "opciones": [
-      "A. Entre Rusia y Alaska",
-      "B. Entre Japón y Corea",
-      "C. Entre Australia y Papúa Nueva Guinea",
-      "D. Entre Canadá y Groenlandia"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país europeo tiene más kilómetros de costa?",
-    "opciones": [
-      "A. Grecia",
-      "B. Noruega",
-      "C. España",
-      "D. Italia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Irán?",
-    "opciones": [
-      "A. Damasco",
-      "B. Islamabad",
-      "C. Teherán",
-      "D. Bagdad"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué cordillera atraviesa Marruecos?",
-    "opciones": [
-      "A. Pirineos",
-      "B. Alpes",
-      "C. Atlas",
-      "D. Zagros"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Dónde se encuentra el río Mekong?",
-    "opciones": [
-      "A. África",
-      "B. Sudeste Asiático",
-      "C. América del Sur",
-      "D. Europa del Este"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué mar separa Arabia de África?",
-    "opciones": [
-      "A. Rojo",
-      "B. Arábigo",
-      "C. Caspio",
-      "D. Mediterráneo"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país sudamericano tiene forma triangular?",
-    "opciones": [
-      "A. Ecuador",
-      "B. Guyana",
-      "C. Uruguay",
-      "D. Paraguay"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Kazajistán?",
-    "opciones": [
-      "A. Bishkek",
-      "B. Astaná",
-      "C. Taskent",
-      "D. Almaty"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país no tiene salida al mar?",
-    "opciones": [
-      "A. Bolivia",
-      "B. Portugal",
-      "C. Vietnam",
-      "D. Ecuador"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país tiene como capital a Abu Dabi?",
-    "opciones": [
-      "A. Omán",
-      "B. Emiratos Árabes Unidos",
-      "C. Arabia Saudita",
-      "D. Catar"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país africano tiene forma de triángulo invertido?",
-    "opciones": [
-      "A. Níger",
-      "B. Camerún",
-      "C. Marruecos",
-      "D. Namibia"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país asiático tiene frontera con Rusia y China?",
-    "opciones": [
-      "A. Kazajistán",
-      "B. Corea del Norte",
-      "C. Mongolia",
-      "D. India"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la ciudad más poblada del mundo?",
-    "opciones": [
-      "A. São Paulo",
-      "B. Tokio",
-      "C. Shanghái",
-      "D. Delhi"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿En qué país se encuentra el lago Titicaca?",
-    "opciones": [
-      "A. Chile",
-      "B. Perú",
-      "C. Ecuador",
-      "D. Bolivia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Nueva Zelanda?",
-    "opciones": [
-      "A. Auckland",
-      "B. Hamilton",
-      "C. Wellington",
-      "D. Christchurch"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país tiene más husos horarios?",
-    "opciones": [
-      "A. China",
-      "B. Rusia",
-      "C. Francia",
-      "D. Estados Unidos"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Dónde está el estrecho de Bering?",
-    "opciones": [
-      "A. Entre Canadá y Groenlandia",
-      "B. Entre Australia y Papúa Nueva Guinea",
-      "C. Entre Japón y Corea",
-      "D. Entre Rusia y Alaska"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país europeo tiene más kilómetros de costa?",
-    "opciones": [
-      "A. Italia",
-      "B. España",
-      "C. Noruega",
-      "D. Grecia"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué isla pertenece a tres países?",
-    "opciones": [
-      "A. Nueva Guinea",
-      "B. Hispaniola",
-      "C. Irlanda",
-      "D. Borneo"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Irán?",
-    "opciones": [
-      "A. Teherán",
-      "B. Bagdad",
-      "C. Damasco",
-      "D. Islamabad"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué cordillera atraviesa Marruecos?",
-    "opciones": [
-      "A. Zagros",
-      "B. Pirineos",
-      "C. Alpes",
-      "D. Atlas"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué mar separa Arabia de África?",
-    "opciones": [
-      "A. Caspio",
-      "B. Rojo",
-      "C. Arábigo",
-      "D. Mediterráneo"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país sudamericano tiene forma triangular?",
-    "opciones": [
-      "A. Ecuador",
-      "B. Uruguay",
-      "C. Guyana",
-      "D. Paraguay"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Kazajistán?",
-    "opciones": [
-      "A. Astaná",
-      "B. Almaty",
-      "C. Taskent",
-      "D. Bishkek"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país africano tiene forma de triángulo invertido?",
-    "opciones": [
-      "A. Níger",
-      "B. Namibia",
-      "C. Camerún",
-      "D. Marruecos"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país asiático tiene frontera con Rusia y China?",
-    "opciones": [
-      "A. Kazajistán",
-      "B. Corea del Norte",
-      "C. India",
-      "D. Mongolia"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la ciudad más poblada del mundo?",
-    "opciones": [
-      "A. Delhi",
-      "B. São Paulo",
-      "C. Shanghái",
-      "D. Tokio"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Nueva Zelanda?",
-    "opciones": [
-      "A. Auckland",
-      "B. Christchurch",
-      "C. Hamilton",
-      "D. Wellington"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Irán?",
-    "opciones": [
-      "A. Damasco",
-      "B. Teherán",
-      "C. Bagdad",
-      "D. Islamabad"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué cordillera atraviesa Marruecos?",
-    "opciones": [
-      "A. Zagros",
-      "B. Atlas",
-      "C. Alpes",
-      "D. Pirineos"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es el país más montañoso del mundo?",
-    "opciones": [
-      "A. Suiza",
-      "B. Bután",
-      "C. Nepal",
-      "D. Chile"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país sudamericano tiene forma triangular?",
-    "opciones": [
-      "A. Guyana",
-      "B. Ecuador",
-      "C. Uruguay",
-      "D. Paraguay"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Dónde se encuentra el río Danubio?",
-    "opciones": [
-      "A. Europa",
-      "B. África",
-      "C. América",
-      "D. Asia"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país asiático tiene frontera con Rusia y China?",
-    "opciones": [
-      "A. Kazajistán",
-      "B. Mongolia",
-      "C. India",
-      "D. Corea del Norte"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Nueva Zelanda?",
-    "opciones": [
-      "A. Auckland",
-      "B. Wellington",
-      "C. Christchurch",
-      "D. Hamilton"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país tiene más husos horarios?",
-    "opciones": [
-      "A. Estados Unidos",
-      "B. Francia",
-      "C. China",
-      "D. Rusia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Dónde está el estrecho de Bering?",
-    "opciones": [
-      "A. Entre Canadá y Groenlandia",
-      "B. Entre Rusia y Alaska",
-      "C. Entre Japón y Corea",
-      "D. Entre Australia y Papúa Nueva Guinea"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué isla pertenece a tres países?",
-    "opciones": [
-      "A. Borneo",
-      "B. Irlanda",
-      "C. Hispaniola",
-      "D. Nueva Guinea"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es el país más montañoso del mundo?",
-    "opciones": [
-      "A. Bután",
-      "B. Chile",
-      "C. Suiza",
-      "D. Nepal"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué mar separa Arabia de África?",
-    "opciones": [
-      "A. Arábigo",
-      "B. Mediterráneo",
-      "C. Rojo",
-      "D. Caspio"
-    ],
-    "respuesta_correcta": "C",
     "tema": "geografia",
     "dificultad": "medio"
   },
@@ -2652,18 +1008,6 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Qué país tiene más husos horarios?",
-    "opciones": [
-      "A. Rusia",
-      "B. Francia",
-      "C. Estados Unidos",
-      "D. China"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Cuál es el punto más bajo de América del Sur?",
     "opciones": [
       "A. Lago Titicaca",
@@ -2706,30 +1050,6 @@
       "B. El Alto",
       "C. La Paz",
       "D. Bogotá"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué país tiene forma de bota?",
-    "opciones": [
-      "A. Grecia",
-      "B. Italia",
-      "C. Croacia",
-      "D. Albania"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué mar separa Arabia de África?",
-    "opciones": [
-      "A. Mar Mediterráneo",
-      "B. Mar Rojo",
-      "C. Mar Arábigo",
-      "D. Golfo Pérsico"
     ],
     "respuesta_correcta": "B",
     "tema": "geografia",
@@ -2832,18 +1152,6 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Cuál es la capital de Kazajistán?",
-    "opciones": [
-      "A. Taskent",
-      "B. Almaty",
-      "C. Astaná",
-      "D. Bishkek"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Qué mar está entre Italia y los Balcanes?",
     "opciones": [
       "A. Tirreno",
@@ -2940,18 +1248,6 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Cuál es la capital de Burkina Faso?",
-    "opciones": [
-      "A. Yaundé",
-      "B. Niamey",
-      "C. Uagadugú",
-      "D. Bamako"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Dónde se ubica el monte Ararat?",
     "opciones": [
       "A. Irán",
@@ -3030,18 +1326,6 @@
       "B. Negro",
       "C. Caspio",
       "D. Báltico"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Cuál es el país más montañoso del mundo?",
-    "opciones": [
-      "A. Nepal",
-      "B. Suiza",
-      "C. Bután",
-      "D. Austria"
     ],
     "respuesta_correcta": "C",
     "tema": "geografia",
@@ -3132,48 +1416,12 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Qué cordillera separa Europa de Asia?",
-    "opciones": [
-      "A. Himalaya",
-      "B. Alpes",
-      "C. Cárpatos",
-      "D. Urales"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Dónde se encuentra el archipiélago de Svalbard?",
-    "opciones": [
-      "A. Canadá",
-      "B. Rusia",
-      "C. Islandia",
-      "D. Noruega"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Cuál es el río más largo de Asia?",
     "opciones": [
       "A. Mekong",
       "B. Ganges",
       "C. Obi",
       "D. Yangtsé"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿En qué país se encuentra el monte Elbrús?",
-    "opciones": [
-      "A. Georgia",
-      "B. Armenia",
-      "C. Turquía",
-      "D. Rusia"
     ],
     "respuesta_correcta": "D",
     "tema": "geografia",
@@ -3210,18 +1458,6 @@
       "B. Bolivia",
       "C. Uruguay",
       "D. Guyana"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Eslovenia?",
-    "opciones": [
-      "A. Bratislava",
-      "B. Zagreb",
-      "C. Sarajevo",
-      "D. Liubliana"
     ],
     "respuesta_correcta": "D",
     "tema": "geografia",
@@ -3366,18 +1602,6 @@
       "B. Fosa de Sunda",
       "C. Trinchera de Kermadec",
       "D. Abismo de Tonga"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Qué país tiene la mayor altitud media del mundo?",
-    "opciones": [
-      "A. Bután",
-      "B. Nepal",
-      "C. Suiza",
-      "D. Bolivia"
     ],
     "respuesta_correcta": "A",
     "tema": "geografia",
@@ -3768,18 +1992,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Cuál es la capital de Mongolia?",
-    "opciones": [
-      "A. Ulan Bator",
-      "B. Ulaanbaatar",
-      "C. Astana",
-      "D. Bishkek"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Cuál es el río más largo que atraviesa únicamente un país?",
     "opciones": [
       "A. Yangtsé",
@@ -3858,18 +2070,6 @@
       "B. Dinamarca",
       "C. Noruega",
       "D. Suecia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Cuál es el lago más grande de África?",
-    "opciones": [
-      "A. Lago Tanganica",
-      "B. Lago Victoria",
-      "C. Lago Malawi",
-      "D. Lago Chad"
     ],
     "respuesta_correcta": "B",
     "tema": "geografia",
@@ -4264,7 +2464,7 @@
     "opciones": [
       "A. Estrecho de Magallanes",
       "B. Estrecho de Bering",
-      "C. Estrecho de Gibraltar",
+      "C. Estrecho de Malaca",
       "D. Estrecho de Gibraltar"
     ],
     "respuesta_correcta": "D",
@@ -4346,7 +2546,7 @@
   {
     "pregunta": "¿En qué continente se encuentra la región del Tíbet?",
     "opciones": [
-      "A. Asia",
+      "A. América",
       "B. Europa",
       "C. África",
       "D. Asia"
@@ -4359,7 +2559,7 @@
     "pregunta": "¿Cuál es la capital del país de Bután?",
     "opciones": [
       "A. Katmandú",
-      "B. Thimphu",
+      "B. Gelephu",
       "C. Paro",
       "D. Thimphu"
     ],
@@ -4372,7 +2572,7 @@
     "opciones": [
       "A. Danubio",
       "B. Rin",
-      "C. Volga",
+      "C. Amazonas",
       "D. Volga"
     ],
     "respuesta_correcta": "D",
@@ -4395,7 +2595,7 @@
     "pregunta": "¿En qué país se encuentra la ciudad de Samarcanda, conocida por su importancia histórica en la Ruta de la Seda?",
     "opciones": [
       "A. Irán",
-      "B. Uzbekistán",
+      "B. Iraq",
       "C. Turkmenistán",
       "D. Uzbekistán"
     ],
@@ -4442,7 +2642,7 @@
   {
     "pregunta": "¿Cuál es la capital de Kirguistán?",
     "opciones": [
-      "A. Bishkek",
+      "A. Jalal-Abad",
       "B. Dushanbe",
       "C. Ashgabat",
       "D. Bishkek"
@@ -4456,7 +2656,7 @@
     "opciones": [
       "A. Lago Superior",
       "B. Lago Victoria",
-      "C. Lago Baikal",
+      "C. Lago Chicago",
       "D. Lago Baikal"
     ],
     "respuesta_correcta": "D",
@@ -4479,7 +2679,7 @@
     "pregunta": "¿Qué ciudad es considerada la más antigua de Asia?",
     "opciones": [
       "A. Jerusalén",
-      "B. Damasco",
+      "B. Xi'an",
       "C. Beirut",
       "D. Damasco"
     ],
@@ -4490,7 +2690,7 @@
   {
     "pregunta": "¿Cuál es el nombre del río que atraviesa París?",
     "opciones": [
-      "A. Sena",
+      "A. Elba",
       "B. Loira",
       "C. Ródano",
       "D. Sena"
@@ -4504,7 +2704,7 @@
     "opciones": [
       "A. Níger",
       "B. Senegal",
-      "C. Malí",
+      "C. Argelia",
       "D. Malí"
     ],
     "respuesta_correcta": "D",
@@ -4527,7 +2727,7 @@
     "pregunta": "¿Cuál es la capital del archipiélago de las Azores?",
     "opciones": [
       "A. Horta",
-      "B. Ponta Delgada",
+      "B. Coimbra",
       "C. Angra do Heroísmo",
       "D. Ponta Delgada"
     ],
@@ -4550,7 +2750,7 @@
   {
     "pregunta": "¿Cuál es el mayor desierto de Asia?",
     "opciones": [
-      "A. Gobi",
+      "A. Thar",
       "B. Taklamakán",
       "C. Kyzylkum",
       "D. Gobi"
@@ -5316,18 +3516,6 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿En qué país nació Frida Kahlo?",
-    "opciones": [
-      "A. España",
-      "B. México",
-      "C. Argentina",
-      "D. Chile"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "muy_facil"
-  },
-  {
     "pregunta": "¿Qué obra es un famoso poema épico de Homero?",
     "opciones": [
       "A. La Ilíada",
@@ -5396,18 +3584,6 @@
       "D. La Odisea"
     ],
     "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Quién escribió 'Orgullo y prejuicio'?",
-    "opciones": [
-      "A. Jane Austen",
-      "B. Charlotte Brontë",
-      "C. Emily Dickinson",
-      "D. Virginia Woolf"
-    ],
-    "respuesta_correcta": "A",
     "tema": "arte_literatura",
     "dificultad": "muy_facil"
   },
@@ -5808,18 +3984,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Quién es el autor de 'Cien años de soledad'?",
-    "opciones": [
-      "A. Gabriel García Márquez",
-      "B. Jorge Luis Borges",
-      "C. Pablo Neruda",
-      "D. Isabel Allende"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "arte_literatura",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿En qué ciudad se encuentra el Museo del Prado?",
     "opciones": [
       "A. Madrid",
@@ -6054,18 +4218,6 @@
       "B. Colombiano",
       "C. Argentino",
       "D. Peruano"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "arte_literatura",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿En qué país se originó el ballet?",
-    "opciones": [
-      "A. Francia",
-      "B. Italia",
-      "C. Rusia",
-      "D. Alemania"
     ],
     "respuesta_correcta": "B",
     "tema": "arte_literatura",
@@ -6372,18 +4524,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Quién pintó 'La noche estrellada'?",
-    "opciones": [
-      "A. Claude Monet",
-      "B. Paul Cézanne",
-      "C. Vincent van Gogh",
-      "D. Edvard Munch"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Cuál de estos autores es estadounidense?",
     "opciones": [
       "A. Jorge Luis Borges",
@@ -6420,10 +4560,10 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué novela comienza con la frase 'Call me Ishmael'?",
+    "pregunta": "¿Qué novela comienza con la frase 'Llamadme Ismael'?",
     "opciones": [
       "A. Don Quijote",
-      "B. Moby Dick",
+      "B. Hamlet",
       "C. Moby Dick",
       "D. El Gran Gatsby"
     ],
@@ -6438,18 +4578,6 @@
       "B. La casa de Bernarda Alba",
       "C. Tío Vania",
       "D. Esperando a Godot"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Quién es el autor de 'El Principito'?",
-    "opciones": [
-      "A. Antoine de Saint-Exupéry",
-      "B. Julio Verne",
-      "C. Antoine de Saint-Exupéry",
-      "D. Lewis Carroll"
     ],
     "respuesta_correcta": "C",
     "tema": "arte_literatura",
@@ -6507,7 +4635,7 @@
     "pregunta": "¿Qué autor creó el personaje de Don Quijote?",
     "opciones": [
       "A. Lope de Vega",
-      "B. Miguel de Cervantes",
+      "B. Miguel de Unamuno",
       "C. Miguel de Cervantes",
       "D. Calderón de la Barca"
     ],
@@ -6554,22 +4682,10 @@
   {
     "pregunta": "¿Qué obra es un poema épico griego?",
     "opciones": [
-      "A. La Ilíada",
+      "A. Metamorphoses",
       "B. La Odisea",
       "C. La Ilíada",
       "D. La Eneida"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Quién escribió 'La Divina Comedia'?",
-    "opciones": [
-      "A. Dante Alighieri",
-      "B. Giovanni Boccaccio",
-      "C. Dante Alighieri",
-      "D. Petrarca"
     ],
     "respuesta_correcta": "C",
     "tema": "arte_literatura",
@@ -6591,7 +4707,7 @@
     "pregunta": "¿Qué artista es famoso por sus pinturas surrealistas?",
     "opciones": [
       "A. Pablo Picasso",
-      "B. Salvador Dalí",
+      "B. Vincent Van Gogh",
       "C. Salvador Dalí",
       "D. Henri Matisse"
     ],
@@ -6624,36 +4740,12 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Quién es el autor de 'Hamlet'?",
-    "opciones": [
-      "A. Molière",
-      "B. Victor Hugo",
-      "C. Sófocles",
-      "D. William Shakespeare"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué estilo artístico es característico por el uso de luces y sombras dramáticas?",
     "opciones": [
       "A. Impresionismo",
       "B. Cubismo",
       "C. Renacimiento",
       "D. Barroco"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Quién escribió la novela 'Orgullo y prejuicio'?",
-    "opciones": [
-      "A. Charlotte Brontë",
-      "B. Emily Dickinson",
-      "C. Mary Shelley",
-      "D. Jane Austen"
     ],
     "respuesta_correcta": "D",
     "tema": "arte_literatura",
@@ -6684,23 +4776,11 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Quién pintó 'La persistencia de la memoria'?",
-    "opciones": [
-      "A. Pablo Picasso",
-      "B. Joan Miró",
-      "C. René Magritte",
-      "D. Salvador Dalí"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué autor creó a Sherlock Holmes?",
     "opciones": [
       "A. Agatha Christie",
       "B. Edgar Allan Poe",
-      "C. Arthur Conan Doyle",
+      "C. Oscar Wilde",
       "D. Arthur Conan Doyle"
     ],
     "respuesta_correcta": "D",
@@ -6714,18 +4794,6 @@
       "B. Romanticismo",
       "C. Modernismo",
       "D. Existencialismo"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Quién escribió 'El retrato de Dorian Gray'?",
-    "opciones": [
-      "A. Bram Stoker",
-      "B. Mary Shelley",
-      "C. Oscar Wilde",
-      "D. Oscar Wilde"
     ],
     "respuesta_correcta": "D",
     "tema": "arte_literatura",
@@ -6759,7 +4827,7 @@
     "pregunta": "¿Qué escritor creó a 'Drácula'?",
     "opciones": [
       "A. Mary Shelley",
-      "B. Bram Stoker",
+      "B. Edgar Allan Poe",
       "C. H.P. Lovecraft",
       "D. Bram Stoker"
     ],
@@ -6792,18 +4860,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué es un haiku?",
-    "opciones": [
-      "A. Una novela corta",
-      "B. Una pintura japonesa",
-      "C. Un estilo musical",
-      "D. Un poema tradicional japonés"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Quién es conocido como el padre del teatro moderno?",
     "opciones": [
       "A. Sófocles",
@@ -6820,7 +4876,7 @@
     "opciones": [
       "A. León Tolstói",
       "B. Iván Turguénev",
-      "C. Fiódor Dostoyevski",
+      "C. Aleksandr Pushkin",
       "D. Fiódor Dostoyevski"
     ],
     "respuesta_correcta": "D",
@@ -6960,18 +5016,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Quién escribió 'La Odisea'?",
-    "opciones": [
-      "A. Homero",
-      "B. Virgilio",
-      "C. Sófocles",
-      "D. Esquilo"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Cuál es el estilo arquitectónico de la catedral de Notre Dame en París?",
     "opciones": [
       "A. Gótico",
@@ -7044,18 +5088,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Quién es el autor de 'El Principito'?",
-    "opciones": [
-      "A. Antoine de Saint-Exupéry",
-      "B. Jules Verne",
-      "C. Victor Hugo",
-      "D. Marcel Proust"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Qué obra es de Miguel de Cervantes?",
     "opciones": [
       "A. Don Quijote de la Mancha",
@@ -7080,36 +5112,12 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Cuál es la nacionalidad de Franz Kafka?",
-    "opciones": [
-      "A. Austrohúngaro",
-      "B. Alemán",
-      "C. Checo",
-      "D. Polaco"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿En qué país nació el compositor Ludwig van Beethoven?",
     "opciones": [
       "A. Alemania",
       "B. Austria",
       "C. Suiza",
       "D. Francia"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué escritor creó el personaje Sherlock Holmes?",
-    "opciones": [
-      "A. Arthur Conan Doyle",
-      "B. Agatha Christie",
-      "C. Edgar Allan Poe",
-      "D. Wilkie Collins"
     ],
     "respuesta_correcta": "A",
     "tema": "arte_literatura",
@@ -7134,18 +5142,6 @@
       "B. Un movimiento pictórico",
       "C. Una técnica teatral",
       "D. Un estilo musical"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién escribió 'La Divina Comedia'?",
-    "opciones": [
-      "A. Dante Alighieri",
-      "B. Giovanni Boccaccio",
-      "C. Petrarca",
-      "D. Homero"
     ],
     "respuesta_correcta": "A",
     "tema": "arte_literatura",
@@ -7182,18 +5178,6 @@
       "B. Escritora española",
       "C. Compositora italiana",
       "D. Escultora francesa"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué obra escribió Federico García Lorca?",
-    "opciones": [
-      "A. Bodas de sangre",
-      "B. La casa de Bernarda Alba",
-      "C. Yerma",
-      "D. Todas las anteriores"
     ],
     "respuesta_correcta": "A",
     "tema": "arte_literatura",
@@ -7512,48 +5496,12 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Qué autor escribió 'Cien años de soledad'?",
-    "opciones": [
-      "A. Julio Cortázar",
-      "B. Isabel Allende",
-      "C. Gabriel García Márquez",
-      "D. Mario Vargas Llosa"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Quién fue el creador del movimiento literario llamado 'Realismo Mágico'?",
     "opciones": [
       "A. Jorge Luis Borges",
       "B. Pablo Neruda",
       "C. Gabriel García Márquez",
       "D. Octavio Paz"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿En qué ciudad se encuentra el Museo del Prado?",
-    "opciones": [
-      "A. París",
-      "B. Roma",
-      "C. Madrid",
-      "D. Berlín"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué autor escribió 'La Odisea'?",
-    "opciones": [
-      "A. Esquilo",
-      "B. Homero",
-      "C. Virgilio",
-      "D. Sófocles"
     ],
     "respuesta_correcta": "C",
     "tema": "arte_literatura",
@@ -7608,18 +5556,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿En qué país nació Frida Kahlo?",
-    "opciones": [
-      "A. España",
-      "B. Estados Unidos",
-      "C. México",
-      "D. Argentina"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Cuál es el título original de la obra 'Romeo y Julieta'?",
     "opciones": [
       "A. The Tragedy of Romeo and Juliet",
@@ -7638,18 +5574,6 @@
       "B. Expresionismo",
       "C. Cubismo",
       "D. Fauvismo"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién escribió 'El principito'?",
-    "opciones": [
-      "A. Antoine de Saint-Exupéry",
-      "B. Victor Hugo",
-      "C. Jules Verne",
-      "D. Marcel Proust"
     ],
     "respuesta_correcta": "C",
     "tema": "arte_literatura",
@@ -7776,18 +5700,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Quién pintó 'Guernica'?",
-    "opciones": [
-      "A. Salvador Dalí",
-      "B. Claude Monet",
-      "C. Henri Matisse",
-      "D. Pablo Picasso"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Qué escritor es autor de 'En busca del tiempo perdido'?",
     "opciones": [
       "A. Marcel Proust",
@@ -7824,18 +5736,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Quién compuso la ópera 'La Traviata'?",
-    "opciones": [
-      "A. Wolfgang Amadeus Mozart",
-      "B. Richard Wagner",
-      "C. Gioachino Rossini",
-      "D. Giuseppe Verdi"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿En qué país nació el poeta Pablo Neruda?",
     "opciones": [
       "A. Argentina",
@@ -7854,18 +5754,6 @@
       "B. Frank Lloyd Wright",
       "C. Le Corbusier",
       "D. Antoni Gaudí"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la nacionalidad del escritor Franz Kafka?",
-    "opciones": [
-      "A. Austriaco",
-      "B. Alemán",
-      "C. Checo",
-      "D. Austrohúngaro"
     ],
     "respuesta_correcta": "D",
     "tema": "arte_literatura",
@@ -7944,18 +5832,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Qué autor creó el personaje Sherlock Holmes?",
-    "opciones": [
-      "A. Agatha Christie",
-      "B. Edgar Allan Poe",
-      "C. Arthur Conan Doyle",
-      "D. Wilkie Collins"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿En qué ciudad italiana se encuentra la Galería Uffizi?",
     "opciones": [
       "A. Roma",
@@ -7998,18 +5874,6 @@
       "B. Infierno",
       "C. Purgatorio",
       "D. La Divina Comedia"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién escribió 'El Principito'?",
-    "opciones": [
-      "A. Antoine de Saint-Exupéry",
-      "B. Jules Verne",
-      "C. Victor Hugo",
-      "D. Marcel Proust"
     ],
     "respuesta_correcta": "D",
     "tema": "arte_literatura",
@@ -8208,18 +6072,6 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Qué poeta chileno ganó el Premio Nobel de Literatura en 1971?",
-    "opciones": [
-      "A. Pablo Neruda",
-      "B. Gabriela Mistral",
-      "C. Nicanor Parra",
-      "D. Vicente Huidobro"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "arte_literatura",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿En qué país nació el escultor Auguste Rodin?",
     "opciones": [
       "A. Francia",
@@ -8268,18 +6120,6 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Quién es el autor de la obra teatral 'Esperando a Godot'?",
-    "opciones": [
-      "A. Samuel Beckett",
-      "B. Harold Pinter",
-      "C. Arthur Miller",
-      "D. Tennessee Williams"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "arte_literatura",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Cuál es el nombre del pintor expresionista alemán conocido por 'El Grito'?",
     "opciones": [
       "A. Edvard Munch",
@@ -8310,18 +6150,6 @@
       "B. Roma",
       "C. Venecia",
       "D. Milán"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "arte_literatura",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Quién escribió 'El retrato de Dorian Gray'?",
-    "opciones": [
-      "A. Oscar Wilde",
-      "B. Bram Stoker",
-      "C. Arthur Conan Doyle",
-      "D. H.G. Wells"
     ],
     "respuesta_correcta": "A",
     "tema": "arte_literatura",
@@ -8664,18 +6492,6 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Quién compuso la ópera 'La Traviata'?",
-    "opciones": [
-      "A. Mozart",
-      "B. Wagner",
-      "C. Giuseppe Verdi",
-      "D. Puccini"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Qué escritor ruso es autor de 'Crimen y castigo'?",
     "opciones": [
       "A. León Tolstói",
@@ -8694,18 +6510,6 @@
       "B. Surrealismo",
       "C. Expresionismo",
       "D. Fauvismo"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Quién escribió 'El retrato de Dorian Gray'?",
-    "opciones": [
-      "A. Oscar Wilde",
-      "B. Bram Stoker",
-      "C. Mary Shelley",
-      "D. Robert Louis Stevenson"
     ],
     "respuesta_correcta": "C",
     "tema": "arte_literatura",
@@ -8808,18 +6612,6 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Quién escribió 'La metamorfosis'?",
-    "opciones": [
-      "A. Franz Kafka",
-      "B. Thomas Mann",
-      "C. Hermann Hesse",
-      "D. Bertolt Brecht"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Qué corriente literaria representa la deshumanización y la alienación?",
     "opciones": [
       "A. Realismo",
@@ -8850,18 +6642,6 @@
       "B. Fauvismo",
       "C. Puntillismo",
       "D. Cubismo"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Quién es el autor de 'Rayuela'?",
-    "opciones": [
-      "A. Julio Cortázar",
-      "B. Mario Vargas Llosa",
-      "C. Jorge Luis Borges",
-      "D. Carlos Fuentes"
     ],
     "respuesta_correcta": "C",
     "tema": "arte_literatura",
@@ -8924,18 +6704,6 @@
       "D. Stéphane Mallarmé"
     ],
     "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Quién pintó 'Las meninas'?",
-    "opciones": [
-      "A. Velázquez",
-      "B. Goya",
-      "C. El Greco",
-      "D. Picasso"
-    ],
-    "respuesta_correcta": "D",
     "tema": "arte_literatura",
     "dificultad": "dificil"
   },
@@ -9060,18 +6828,6 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Qué dramaturgo inglés escribió 'La tempestad'?",
-    "opciones": [
-      "A. Christopher Marlowe",
-      "B. Ben Jonson",
-      "C. John Webster",
-      "D. William Shakespeare"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Qué técnica pictórica se basa en la representación fiel de la luz y sus efectos?",
     "opciones": [
       "A. Surrealismo",
@@ -9132,36 +6888,12 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Quién escribió 'Cumbres borrascosas'?",
-    "opciones": [
-      "A. Jane Austen",
-      "B. Emily Dickinson",
-      "C. Elizabeth Gaskell",
-      "D. Emily Brontë"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Cuál es el autor de la obra 'Fausto'?",
     "opciones": [
       "A. Friedrich Schiller",
       "B. Heinrich Heine",
       "C. Bertolt Brecht",
       "D. Johann Wolfgang von Goethe"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué pintor es conocido por su obra 'Guernica'?",
-    "opciones": [
-      "A. Salvador Dalí",
-      "B. Joan Miró",
-      "C. Pablo Picasso",
-      "D. Francisco Goya"
     ],
     "respuesta_correcta": "D",
     "tema": "arte_literatura",
@@ -9396,18 +7128,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué poeta chileno ganó el Premio Nobel de Literatura en 1971?",
-    "opciones": [
-      "A. Pablo Neruda",
-      "B. Gabriela Mistral",
-      "C. Vicente Huidobro",
-      "D. Nicanor Parra"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Cuál es el nombre de la obra maestra de Johann Sebastian Bach para órgano?",
     "opciones": [
       "A. El arte de la fuga",
@@ -9450,18 +7170,6 @@
       "B. Modernismo",
       "C. Romanticismo",
       "D. Naturalismo"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Quién escribió 'La Divina Comedia'?",
-    "opciones": [
-      "A. Dante Alighieri",
-      "B. Petrarca",
-      "C. Boccaccio",
-      "D. Giovanni Pascoli"
     ],
     "respuesta_correcta": "A",
     "tema": "arte_literatura",
@@ -9528,36 +7236,12 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué poeta francés escribió 'Las flores del mal'?",
-    "opciones": [
-      "A. Paul Verlaine",
-      "B. Charles Baudelaire",
-      "C. Arthur Rimbaud",
-      "D. Stéphane Mallarmé"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Cuál fue la capital cultural del Renacimiento italiano?",
     "opciones": [
       "A. Roma",
       "B. Florencia",
       "C. Venecia",
       "D. Milán"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Quién compuso la ópera 'La flauta mágica'?",
-    "opciones": [
-      "A. Ludwig van Beethoven",
-      "B. Wolfgang Amadeus Mozart",
-      "C. Johann Sebastian Bach",
-      "D. Giuseppe Verdi"
     ],
     "respuesta_correcta": "B",
     "tema": "arte_literatura",
@@ -9672,18 +7356,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué autor creó el personaje Sherlock Holmes?",
-    "opciones": [
-      "A. Agatha Christie",
-      "B. Arthur Conan Doyle",
-      "C. Edgar Allan Poe",
-      "D. Wilkie Collins"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Cuál es el nombre del movimiento artístico asociado a Salvador Dalí?",
     "opciones": [
       "A. Expresionismo",
@@ -9726,18 +7398,6 @@
       "B. Pablo Picasso",
       "C. Diego Rivera",
       "D. Salvador Dalí"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Qué autor escribió 'Cien años de soledad'?",
-    "opciones": [
-      "A. Mario Vargas Llosa",
-      "B. Gabriel García Márquez",
-      "C. Julio Cortázar",
-      "D. Isabel Allende"
     ],
     "respuesta_correcta": "B",
     "tema": "arte_literatura",
@@ -9984,18 +7644,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué escritor francés es conocido por 'Los miserables'?",
-    "opciones": [
-      "A. Émile Zola",
-      "B. Gustave Flaubert",
-      "C. Victor Hugo",
-      "D. Honoré de Balzac"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Cuál es el nombre del movimiento artístico que se caracteriza por la exaltación de la emoción y la imaginación?",
     "opciones": [
       "A. Neoclasicismo",
@@ -10044,18 +7692,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué autor escribió 'La divina comedia'?",
-    "opciones": [
-      "A. Giovanni Boccaccio",
-      "B. Petrarca",
-      "C. Dante Alighieri",
-      "D. Miguel de Cervantes"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Qué poeta inglés es conocido por 'Las flores del mal'?",
     "opciones": [
       "A. William Blake",
@@ -10070,7 +7706,7 @@
   {
     "pregunta": "¿Cuál es el nombre del autor de la novela 'En busca del tiempo perdido'?",
     "opciones": [
-      "A. Marcel Proust",
+      "A. Gabriel García Márquez",
       "B. André Gide",
       "C. Marcel Proust",
       "D. Albert Camus"
@@ -10088,18 +7724,6 @@
       "D. Hesíodo"
     ],
     "respuesta_correcta": "C",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Quién pintó 'Las meninas'?",
-    "opciones": [
-      "A. Salvador Dalí",
-      "B. Francisco Goya",
-      "C. El Greco",
-      "D. Diego Velázquez"
-    ],
-    "respuesta_correcta": "D",
     "tema": "arte_literatura",
     "dificultad": "trivia_hell"
   },
@@ -10128,18 +7752,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Quién es considerado el máximo exponente del Romanticismo alemán?",
-    "opciones": [
-      "A. Heinrich von Kleist",
-      "B. Friedrich Schiller",
-      "C. Novalis",
-      "D. Johann Wolfgang von Goethe"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Cuál fue la primera novela escrita por Gabriel García Márquez?",
     "opciones": [
       "A. Cien años de soledad",
@@ -10158,18 +7770,6 @@
       "B. Expresionismo",
       "C. Fauvismo",
       "D. Surrealismo"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Quién escribió la tragedia 'Fausto'?",
-    "opciones": [
-      "A. Friedrich Schiller",
-      "B. Heinrich von Kleist",
-      "C. Gotthold Ephraim Lessing",
-      "D. Johann Wolfgang von Goethe"
     ],
     "respuesta_correcta": "D",
     "tema": "arte_literatura",
@@ -10224,36 +7824,12 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué poeta chileno ganó el Premio Nobel de Literatura en 1971?",
-    "opciones": [
-      "A. Arthur Miller",
-      "B. Gabriela Mistral",
-      "C. Vicente Huidobro",
-      "D. Pablo Neruda"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Cuál es la técnica pictórica en la que se utiliza la luz y la sombra para crear volumen?",
     "opciones": [
       "A. Impasto",
       "B. Puntillismo",
       "C. Fresco",
       "D. Claroscuro"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Quién escribió 'El retrato de Dorian Gray'?",
-    "opciones": [
-      "A. Bram Stoker",
-      "B. Robert Louis Stevenson",
-      "C. Arthur Miller",
-      "D. Oscar Wilde"
     ],
     "respuesta_correcta": "D",
     "tema": "arte_literatura",
@@ -10296,18 +7872,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Quién escribió 'La metamorfosis'?",
-    "opciones": [
-      "A. Rudyard Kipling",
-      "B. Thomas Mann",
-      "C. Hermann Hesse",
-      "D. Franz Kafka"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Qué novelista escribió 'El corazón de las tinieblas'?",
     "opciones": [
       "A. Barnett Newman",
@@ -10332,36 +7896,12 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Quién escribió 'Ulises'?",
-    "opciones": [
-      "A. Samuel Beckett",
-      "B. T. S. Eliot",
-      "C. Antoine de Saint-Exupéry",
-      "D. James Joyce"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Qué movimiento artístico estuvo liderado por Pablo Picasso y Georges Braque?",
     "opciones": [
       "A. Fauvismo",
       "B. Surrealismo",
       "C. Expresionismo",
       "D. Cubismo"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "arte_literatura",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Quién es el autor de 'El principito'?",
-    "opciones": [
-      "A. James Joyce",
-      "B. Victor Hugo",
-      "C. Jules Verne",
-      "D. Antoine de Saint-Exupéry"
     ],
     "respuesta_correcta": "D",
     "tema": "arte_literatura",
@@ -11076,18 +8616,6 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿Qué país fue gobernado por Napoleón Bonaparte?",
-    "opciones": [
-      "A. España",
-      "B. Italia",
-      "C. Francia",
-      "D. Bélgica"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "muy_facil"
-  },
-  {
     "pregunta": "¿Quién firmó la emancipación de los esclavos en EE.UU.?",
     "opciones": [
       "A. George Washington",
@@ -11280,18 +8808,6 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿Quién fue conocido como el Libertador de América?",
-    "opciones": [
-      "A. Hidalgo",
-      "B. Allende",
-      "C. Martí",
-      "D. Bolívar"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "muy_facil"
-  },
-  {
     "pregunta": "¿Cuál fue la capital del Imperio Bizantino?",
     "opciones": [
       "A. Roma",
@@ -11310,18 +8826,6 @@
       "B. Países Bajos",
       "C. Inglaterra",
       "D. España"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Quién fue el primer emperador romano?",
-    "opciones": [
-      "A. Nerón",
-      "B. César",
-      "C. Calígula",
-      "D. Augusto"
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
@@ -11418,18 +8922,6 @@
       "B. Zapoteca",
       "C. Tolteca",
       "D. Azteca"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Quién escribió la Declaración de Independencia de EE.UU.?",
-    "opciones": [
-      "A. George Washington",
-      "B. Benjamin Franklin",
-      "C. John Adams",
-      "D. Thomas Jefferson"
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
@@ -11544,36 +9036,12 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿Quién descubrió América en 1492?",
-    "opciones": [
-      "A. Cristóbal Colón",
-      "B. Hernán Cortés",
-      "C. Marco Polo",
-      "D. Vasco da Gama"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿En qué país tuvo lugar la Revolución Francesa?",
     "opciones": [
       "A. Francia",
       "B. Alemania",
       "C. Italia",
       "D. Inglaterra"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué civilización construyó las pirámides de Egipto?",
-    "opciones": [
-      "A. Egipcia",
-      "B. Griega",
-      "C. Romana",
-      "D. Mesopotámica"
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
@@ -11610,18 +9078,6 @@
       "B. Imperio Griego",
       "C. Imperio Persa",
       "D. Imperio Bizantino"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Quién fue conocido como el Libertador de América?",
-    "opciones": [
-      "A. Simón Bolívar",
-      "B. José de San Martín",
-      "C. Miguel Hidalgo",
-      "D. Antonio José de Sucre"
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
@@ -11676,18 +9132,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué evento marcó el inicio de la Edad Media?",
-    "opciones": [
-      "A. Caída del Imperio Romano",
-      "B. Descubrimiento de América",
-      "C. Reforma Protestante",
-      "D. Guerra de los Cien Años"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Quién fue el faraón más famoso de Egipto?",
     "opciones": [
       "A. Tutankamón",
@@ -11736,18 +9180,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué país fue gobernado por Napoleón Bonaparte?",
-    "opciones": [
-      "A. Francia",
-      "B. España",
-      "C. Italia",
-      "D. Austria"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿En qué ciudad se firmó la Declaración de Independencia de EE.UU.?",
     "opciones": [
       "A. Filadelfia",
@@ -11772,36 +9204,12 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
-    "opciones": [
-      "A. Tratado de Versalles",
-      "B. Tratado de París",
-      "C. Tratado de Tordesillas",
-      "D. Tratado de Utrecht"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué cultura precolombina construyó Chichén Itzá?",
     "opciones": [
       "A. Maya",
       "B. Azteca",
       "C. Inca",
       "D. Olmeca"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Quién lideró la independencia de la India?",
-    "opciones": [
-      "A. Mahatma Gandhi",
-      "B. Jawaharlal Nehru",
-      "C. Subhas Chandra Bose",
-      "D. Indira Gandhi"
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
@@ -12156,30 +9564,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Cuál fue la capital del Imperio Bizantino?",
-    "opciones": [
-      "A. Roma",
-      "B. Atenas",
-      "C. Constantinopla",
-      "D. Jerusalén"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
-    "opciones": [
-      "A. Tratado de Versalles",
-      "B. Tratado de Tordesillas",
-      "C. Tratado de París",
-      "D. Tratado de Utrecht"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Cuál fue la principal ciudad-estado rival de Atenas en la antigua Grecia?",
     "opciones": [
       "A. Corinto",
@@ -12216,48 +9600,12 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué país fue gobernado por Napoleón Bonaparte?",
-    "opciones": [
-      "A. Italia",
-      "B. Alemania",
-      "C. Francia",
-      "D. Austria"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué cultura precolombina construyó Machu Picchu?",
-    "opciones": [
-      "A. Maya",
-      "B. Azteca",
-      "C. Inca",
-      "D. Olmeca"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué presidente de Estados Unidos abolió la esclavitud?",
     "opciones": [
       "A. George Washington",
       "B. Thomas Jefferson",
       "C. Abraham Lincoln",
       "D. John Adams"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué civilización utilizó jeroglíficos como sistema de escritura?",
-    "opciones": [
-      "A. Romana",
-      "B. Mesopotámica",
-      "C. Egipcia",
-      "D. Griega"
     ],
     "respuesta_correcta": "C",
     "tema": "historia",
@@ -12393,7 +9741,7 @@
     ],
     "respuesta_correcta": "C",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué reina británica gobernó durante la época victoriana?",
@@ -12405,7 +9753,7 @@
     ],
     "respuesta_correcta": "C",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Cuál fue el conflicto armado entre Estados Unidos y Vietnam?",
@@ -12417,7 +9765,7 @@
     ],
     "respuesta_correcta": "C",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué nombre recibió el descubrimiento de América por Cristóbal Colón?",
@@ -12429,7 +9777,7 @@
     ],
     "respuesta_correcta": "C",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué imperio fue derrotado por Alejandro Magno?",
@@ -12441,31 +9789,7 @@
     ],
     "respuesta_correcta": "C",
     "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué imperio construyó la Gran Muralla China?",
-    "opciones": [
-      "A. Otomano",
-      "B. Romano",
-      "C. Persa",
-      "D. Chino"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Quién fue el primer emperador romano?",
-    "opciones": [
-      "A. Nerón",
-      "B. Calígula",
-      "C. Trajano",
-      "D. Augusto"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Dónde comenzó la civilización mesopotámica?",
@@ -12477,7 +9801,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué acontecimiento marcó el inicio de la Edad Media?",
@@ -12489,7 +9813,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Quién escribió el Diario de Ana Frank?",
@@ -12501,7 +9825,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué país sufrió bombardeos nucleares en 1945?",
@@ -12513,7 +9837,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Quién fue asesinado en Dallas en 1963?",
@@ -12525,7 +9849,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué guerra se libró entre el norte y el sur de EE.UU.?",
@@ -12537,19 +9861,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Quién fue el dictador de Alemania durante la Segunda Guerra Mundial?",
-    "opciones": [
-      "A. Stalin",
-      "B. Mussolini",
-      "C. Franco",
-      "D. Hitler"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Cuál fue la primera civilización conocida de la historia?",
@@ -12561,7 +9873,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Quién fue el líder de los nazis?",
@@ -12573,7 +9885,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué hecho terminó con la Segunda Guerra Mundial?",
@@ -12585,7 +9897,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué revolución derrocó a Luis XVI?",
@@ -12597,19 +9909,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Quién descubrió América en 1492?",
-    "opciones": [
-      "A. Hernán Cortés",
-      "B. Vasco da Gama",
-      "C. Fernando de Magallanes",
-      "D. Cristóbal Colón"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Dónde tuvo lugar el desembarco de Normandía?",
@@ -12621,7 +9921,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿En qué continente se originó el ser humano moderno?",
@@ -12633,7 +9933,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué famoso conquistador venció al imperio azteca?",
@@ -12645,19 +9945,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué país colonizó gran parte de América del Sur?",
-    "opciones": [
-      "A. Francia",
-      "B. Inglaterra",
-      "C. Holanda",
-      "D. España"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué civilización inventó el calendario de 365 días?",
@@ -12669,7 +9957,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué filósofo fue maestro de Alejandro Magno?",
@@ -12681,7 +9969,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué movimiento defendía los derechos de las mujeres a principios del siglo XX?",
@@ -12693,7 +9981,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué país lideró las cruzadas en la Edad Media?",
@@ -12705,7 +9993,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Cuál fue el motivo principal de las cruzadas?",
@@ -12717,7 +10005,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Quién fue el dictador español que gobernó tras la Guerra Civil?",
@@ -12729,7 +10017,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué imperio estuvo liderado por Ciro el Grande?",
@@ -12741,7 +10029,7 @@
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
-    "dificultad": "facil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
@@ -12750,18 +10038,6 @@
       "C. 1929",
       "B. 1939",
       "D. 1905"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién fue el primer emperador romano?",
-    "opciones": [
-      "A. Augusto",
-      "D. Trajano",
-      "B. Julio César",
-      "C. Nerón"
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
@@ -12780,48 +10056,12 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Qué civilización construyó las pirámides de Egipto?",
-    "opciones": [
-      "A. Egipcia",
-      "D. Persa",
-      "B. Griega",
-      "C. Romana"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién descubrió América?",
-    "opciones": [
-      "A. Cristóbal Colón",
-      "B. Marco Polo",
-      "C. Magallanes",
-      "D. Américo Vespucio"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Cuál fue el imperio más extenso de la historia?",
     "opciones": [
       "A. Mongol",
       "D. Persa",
       "B. Romano",
       "C. Otomano"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
-    "opciones": [
-      "A. Tratado de Versalles",
-      "C. Tratado de Viena",
-      "B. Tratado de París",
-      "D. Tratado de Utrecht"
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
@@ -12888,18 +10128,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Qué imperio construyó la Gran Muralla China?",
-    "opciones": [
-      "A. Chino",
-      "D. Romano",
-      "B. Japonés",
-      "C. Persa"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Quién fue Juana de Arco?",
     "opciones": [
       "A. Heroína francesa",
@@ -12948,48 +10176,12 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Qué batalla marcó el fin de Napoleón Bonaparte?",
-    "opciones": [
-      "A. Waterloo",
-      "C. Austerlitz",
-      "D. Leipzig",
-      "B. Trafalgar"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿En qué año cayó el Imperio Romano de Occidente?",
-    "opciones": [
-      "A. 476",
-      "D. 1453",
-      "C. 800",
-      "B. 1492"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Qué líder revolucionario argentino cruzó los Andes?",
     "opciones": [
       "A. San Martín",
       "C. O'Higgins",
       "B. Bolívar",
       "D. Artigas"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué evento inició la Segunda Guerra Mundial?",
-    "opciones": [
-      "A. Invasión de Polonia",
-      "D. Guerra Civil Española",
-      "B. Ataque a Pearl Harbor",
-      "C. Bombardeo de Londres"
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
@@ -13044,906 +10236,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
-    "opciones": [
-      "D. 1905",
-      "B. 1939",
-      "A. 1914",
-      "C. 1929"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién fue el primer emperador romano?",
-    "opciones": [
-      "C. Nerón",
-      "B. Julio César",
-      "D. Trajano",
-      "A. Augusto"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál fue la causa principal de la Revolución Francesa?",
-    "opciones": [
-      "A. Desigualdad social",
-      "B. Independencia",
-      "C. Peste",
-      "D. Revolución Industrial"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué civilización construyó las pirámides de Egipto?",
-    "opciones": [
-      "D. Persa",
-      "B. Griega",
-      "C. Romana",
-      "A. Egipcia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién descubrió América?",
-    "opciones": [
-      "D. Américo Vespucio",
-      "B. Marco Polo",
-      "A. Cristóbal Colón",
-      "C. Magallanes"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál fue el imperio más extenso de la historia?",
-    "opciones": [
-      "D. Persa",
-      "B. Romano",
-      "A. Mongol",
-      "C. Otomano"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
-    "opciones": [
-      "A. Tratado de Versalles",
-      "B. Tratado de París",
-      "D. Tratado de Utrecht",
-      "C. Tratado de Viena"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién fue el líder de la Unión Soviética durante la Segunda Guerra Mundial?",
-    "opciones": [
-      "C. Trotsky",
-      "B. Lenin",
-      "D. Gorbachov",
-      "A. Stalin"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué muro cayó en 1989 marcando el fin de la Guerra Fría?",
-    "opciones": [
-      "A. Muro de Berlín",
-      "B. Muro de Varsovia",
-      "C. Muro de Viena",
-      "D. Muro de Praga"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál fue la ciudad destruida por la erupción del Vesubio en el año 79 d.C.?",
-    "opciones": [
-      "D. Cartago",
-      "B. Roma",
-      "A. Pompeya",
-      "C. Atenas"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué guerra enfrentó a los Estados del Norte y del Sur de EE.UU.?",
-    "opciones": [
-      "A. Guerra Civil",
-      "B. Guerra de Independencia",
-      "D. Guerra de Crimea",
-      "C. Guerra de Vietnam"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿En qué año se firmó la Declaración de Independencia de EE.UU.?",
-    "opciones": [
-      "C. 1812",
-      "B. 1789",
-      "D. 1804",
-      "A. 1776"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué imperio construyó la Gran Muralla China?",
-    "opciones": [
-      "A. Chino",
-      "B. Japonés",
-      "C. Persa",
-      "D. Romano"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién fue Juana de Arco?",
-    "opciones": [
-      "C. Científica",
-      "B. Emperatriz",
-      "A. Heroína francesa",
-      "D. Artista"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué fue el Renacimiento?",
-    "opciones": [
-      "D. Nación",
-      "B. Guerra",
-      "C. Religión",
-      "A. Movimiento cultural"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál fue el primer país en abolir la esclavitud?",
-    "opciones": [
-      "C. Inglaterra",
-      "B. Francia",
-      "A. Haití",
-      "D. Brasil"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué civilización inventó la escritura cuneiforme?",
-    "opciones": [
-      "A. Sumeria",
-      "B. Egipto",
-      "D. Roma",
-      "C. Grecia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué batalla marcó el fin de Napoleón Bonaparte?",
-    "opciones": [
-      "A. Waterloo",
-      "B. Trafalgar",
-      "C. Austerlitz",
-      "D. Leipzig"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿En qué año cayó el Imperio Romano de Occidente?",
-    "opciones": [
-      "D. 1453",
-      "B. 1492",
-      "C. 800",
-      "A. 476"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué líder revolucionario argentino cruzó los Andes?",
-    "opciones": [
-      "C. O'Higgins",
-      "B. Bolívar",
-      "A. San Martín",
-      "D. Artigas"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué evento inició la Segunda Guerra Mundial?",
-    "opciones": [
-      "C. Bombardeo de Londres",
-      "B. Ataque a Pearl Harbor",
-      "D. Guerra Civil Española",
-      "A. Invasión de Polonia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país colonizó la India hasta 1947?",
-    "opciones": [
-      "C. Portugal",
-      "B. Francia",
-      "A. Reino Unido",
-      "D. Holanda"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué civilización precolombina habitó el actual Perú?",
-    "opciones": [
-      "D. Olmeca",
-      "B. Azteca",
-      "C. Maya",
-      "A. Inca"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué movimiento derribó la monarquía rusa en 1917?",
-    "opciones": [
-      "A. Revolución Rusa",
-      "B. Ilustración",
-      "D. Revolución Francesa",
-      "C. Revolución Industrial"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué tratado dividió América entre España y Portugal en 1494?",
-    "opciones": [
-      "A. Tratado de Tordesillas",
-      "B. Tratado de Versalles",
-      "D. Tratado de Gante",
-      "C. Tratado de Utrecht"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
-    "opciones": [
-      "B. 1939",
-      "A. 1914",
-      "C. 1929",
-      "D. 1905"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién fue el primer emperador romano?",
-    "opciones": [
-      "A. Augusto",
-      "D. Trajano",
-      "C. Nerón",
-      "B. Julio César"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál fue la causa principal de la Revolución Francesa?",
-    "opciones": [
-      "D. Revolución Industrial",
-      "A. Desigualdad social",
-      "C. Peste",
-      "B. Independencia"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué civilización construyó las pirámides de Egipto?",
-    "opciones": [
-      "D. Persa",
-      "A. Egipcia",
-      "C. Romana",
-      "B. Griega"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién descubrió América?",
-    "opciones": [
-      "A. Cristóbal Colón",
-      "B. Marco Polo",
-      "C. Magallanes",
-      "D. Américo Vespucio"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál fue el imperio más extenso de la historia?",
-    "opciones": [
-      "D. Persa",
-      "A. Mongol",
-      "C. Otomano",
-      "B. Romano"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
-    "opciones": [
-      "D. Tratado de Utrecht",
-      "A. Tratado de Versalles",
-      "C. Tratado de Viena",
-      "B. Tratado de París"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién fue el líder de la Unión Soviética durante la Segunda Guerra Mundial?",
-    "opciones": [
-      "D. Gorbachov",
-      "A. Stalin",
-      "C. Trotsky",
-      "B. Lenin"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué muro cayó en 1989 marcando el fin de la Guerra Fría?",
-    "opciones": [
-      "A. Muro de Berlín",
-      "D. Muro de Praga",
-      "C. Muro de Viena",
-      "B. Muro de Varsovia"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál fue la ciudad destruida por la erupción del Vesubio en el año 79 d.C.?",
-    "opciones": [
-      "B. Roma",
-      "D. Cartago",
-      "C. Atenas",
-      "A. Pompeya"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué guerra enfrentó a los Estados del Norte y del Sur de EE.UU.?",
-    "opciones": [
-      "B. Guerra de Independencia",
-      "A. Guerra Civil",
-      "C. Guerra de Vietnam",
-      "D. Guerra de Crimea"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿En qué año se firmó la Declaración de Independencia de EE.UU.?",
-    "opciones": [
-      "B. 1789",
-      "D. 1804",
-      "C. 1812",
-      "A. 1776"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué imperio construyó la Gran Muralla China?",
-    "opciones": [
-      "A. Chino",
-      "D. Romano",
-      "C. Persa",
-      "B. Japonés"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién fue Juana de Arco?",
-    "opciones": [
-      "A. Heroína francesa",
-      "D. Artista",
-      "C. Científica",
-      "B. Emperatriz"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué fue el Renacimiento?",
-    "opciones": [
-      "D. Nación",
-      "A. Movimiento cultural",
-      "C. Religión",
-      "B. Guerra"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál fue el primer país en abolir la esclavitud?",
-    "opciones": [
-      "D. Brasil",
-      "B. Francia",
-      "C. Inglaterra",
-      "A. Haití"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué civilización inventó la escritura cuneiforme?",
-    "opciones": [
-      "A. Sumeria",
-      "B. Egipto",
-      "C. Grecia",
-      "D. Roma"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué batalla marcó el fin de Napoleón Bonaparte?",
-    "opciones": [
-      "B. Trafalgar",
-      "A. Waterloo",
-      "C. Austerlitz",
-      "D. Leipzig"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿En qué año cayó el Imperio Romano de Occidente?",
-    "opciones": [
-      "B. 1492",
-      "D. 1453",
-      "C. 800",
-      "A. 476"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué líder revolucionario argentino cruzó los Andes?",
-    "opciones": [
-      "A. San Martín",
-      "D. Artigas",
-      "C. O'Higgins",
-      "B. Bolívar"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué evento inició la Segunda Guerra Mundial?",
-    "opciones": [
-      "B. Ataque a Pearl Harbor",
-      "D. Guerra Civil Española",
-      "C. Bombardeo de Londres",
-      "A. Invasión de Polonia"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país colonizó la India hasta 1947?",
-    "opciones": [
-      "B. Francia",
-      "D. Holanda",
-      "C. Portugal",
-      "A. Reino Unido"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué civilización precolombina habitó el actual Perú?",
-    "opciones": [
-      "B. Azteca",
-      "A. Inca",
-      "C. Maya",
-      "D. Olmeca"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué movimiento derribó la monarquía rusa en 1917?",
-    "opciones": [
-      "D. Revolución Francesa",
-      "A. Revolución Rusa",
-      "C. Revolución Industrial",
-      "B. Ilustración"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué tratado dividió América entre España y Portugal en 1494?",
-    "opciones": [
-      "B. Tratado de Versalles",
-      "A. Tratado de Tordesillas",
-      "C. Tratado de Utrecht",
-      "D. Tratado de Gante"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
-    "opciones": [
-      "C. 1929",
-      "A. 1914",
-      "B. 1939",
-      "D. 1905"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién fue el primer emperador romano?",
-    "opciones": [
-      "A. Augusto",
-      "B. Julio César",
-      "C. Nerón",
-      "D. Trajano"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál fue la causa principal de la Revolución Francesa?",
-    "opciones": [
-      "B. Independencia",
-      "C. Peste",
-      "A. Desigualdad social",
-      "D. Revolución Industrial"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué civilización construyó las pirámides de Egipto?",
-    "opciones": [
-      "B. Griega",
-      "A. Egipcia",
-      "C. Romana",
-      "D. Persa"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién descubrió América?",
-    "opciones": [
-      "B. Marco Polo",
-      "A. Cristóbal Colón",
-      "C. Magallanes",
-      "D. Américo Vespucio"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál fue el imperio más extenso de la historia?",
-    "opciones": [
-      "A. Mongol",
-      "C. Otomano",
-      "B. Romano",
-      "D. Persa"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
-    "opciones": [
-      "B. Tratado de París",
-      "A. Tratado de Versalles",
-      "C. Tratado de Viena",
-      "D. Tratado de Utrecht"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién fue el líder de la Unión Soviética durante la Segunda Guerra Mundial?",
-    "opciones": [
-      "B. Lenin",
-      "C. Trotsky",
-      "A. Stalin",
-      "D. Gorbachov"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué muro cayó en 1989 marcando el fin de la Guerra Fría?",
-    "opciones": [
-      "B. Muro de Varsovia",
-      "C. Muro de Viena",
-      "A. Muro de Berlín",
-      "D. Muro de Praga"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál fue la ciudad destruida por la erupción del Vesubio en el año 79 d.C.?",
-    "opciones": [
-      "B. Roma",
-      "A. Pompeya",
-      "C. Atenas",
-      "D. Cartago"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué guerra enfrentó a los Estados del Norte y del Sur de EE.UU.?",
-    "opciones": [
-      "C. Guerra de Vietnam",
-      "A. Guerra Civil",
-      "B. Guerra de Independencia",
-      "D. Guerra de Crimea"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿En qué año se firmó la Declaración de Independencia de EE.UU.?",
-    "opciones": [
-      "A. 1776",
-      "C. 1812",
-      "B. 1789",
-      "D. 1804"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué imperio construyó la Gran Muralla China?",
-    "opciones": [
-      "A. Chino",
-      "C. Persa",
-      "B. Japonés",
-      "D. Romano"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Quién fue Juana de Arco?",
-    "opciones": [
-      "B. Emperatriz",
-      "C. Científica",
-      "A. Heroína francesa",
-      "D. Artista"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué fue el Renacimiento?",
-    "opciones": [
-      "C. Religión",
-      "B. Guerra",
-      "A. Movimiento cultural",
-      "D. Nación"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál fue el primer país en abolir la esclavitud?",
-    "opciones": [
-      "B. Francia",
-      "C. Inglaterra",
-      "A. Haití",
-      "D. Brasil"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué civilización inventó la escritura cuneiforme?",
-    "opciones": [
-      "C. Grecia",
-      "A. Sumeria",
-      "B. Egipto",
-      "D. Roma"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué batalla marcó el fin de Napoleón Bonaparte?",
-    "opciones": [
-      "B. Trafalgar",
-      "A. Waterloo",
-      "C. Austerlitz",
-      "D. Leipzig"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿En qué año cayó el Imperio Romano de Occidente?",
-    "opciones": [
-      "B. 1492",
-      "A. 476",
-      "C. 800",
-      "D. 1453"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué líder revolucionario argentino cruzó los Andes?",
-    "opciones": [
-      "B. Bolívar",
-      "A. San Martín",
-      "C. O'Higgins",
-      "D. Artigas"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué evento inició la Segunda Guerra Mundial?",
-    "opciones": [
-      "A. Invasión de Polonia",
-      "B. Ataque a Pearl Harbor",
-      "C. Bombardeo de Londres",
-      "D. Guerra Civil Española"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué país colonizó la India hasta 1947?",
-    "opciones": [
-      "B. Francia",
-      "A. Reino Unido",
-      "C. Portugal",
-      "D. Holanda"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué civilización precolombina habitó el actual Perú?",
-    "opciones": [
-      "B. Azteca",
-      "C. Maya",
-      "A. Inca",
-      "D. Olmeca"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué movimiento derribó la monarquía rusa en 1917?",
-    "opciones": [
-      "B. Ilustración",
-      "A. Revolución Rusa",
-      "C. Revolución Industrial",
-      "D. Revolución Francesa"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué tratado dividió América entre España y Portugal en 1494?",
-    "opciones": [
-      "B. Tratado de Versalles",
-      "C. Tratado de Utrecht",
-      "A. Tratado de Tordesillas",
-      "D. Tratado de Gante"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Cuál fue la causa principal del estallido de la Guerra de los Cien Años?",
     "opciones": [
       "A. Disputas dinásticas entre Inglaterra y Francia",
@@ -13953,19 +10245,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
-    "opciones": [
-      "A. Tratado de Versalles",
-      "B. Tratado de Tordesillas",
-      "C. Tratado de Utrecht",
-      "D. Tratado de París"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Quién fue el emperador del Imperio Romano durante la Pax Romana?",
@@ -13977,7 +10257,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Cuál fue la principal causa del colapso del Imperio Bizantino?",
@@ -13989,7 +10269,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué documento es considerado la primera carta de derechos en Inglaterra?",
@@ -14001,7 +10281,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Quién fue el líder de la Revolución Rusa de 1917?",
@@ -14013,7 +10293,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿En qué batalla Napoleón fue definitivamente derrotado?",
@@ -14025,7 +10305,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué emperador chino unificó China y construyó la Gran Muralla?",
@@ -14037,7 +10317,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Cuál fue la causa del fin de la dinastía romana de los Severos?",
@@ -14049,7 +10329,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué civilización construyó la ciudad de Machu Picchu?",
@@ -14061,7 +10341,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Quién fue el faraón que ordenó la construcción de la Gran Pirámide de Giza?",
@@ -14073,19 +10353,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿En qué año cayó el Imperio Romano de Occidente?",
-    "opciones": [
-      "A. 476 d.C.",
-      "B. 395 d.C.",
-      "C. 410 d.C.",
-      "D. 1453 d.C."
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Quién lideró la independencia de la India del dominio británico?",
@@ -14097,31 +10365,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Cuál fue la causa principal de la Revolución Francesa?",
-    "opciones": [
-      "A. La desigualdad social y económica",
-      "B. La invasión napoleónica",
-      "C. La Revolución Industrial",
-      "D. La guerra de los Siete Años"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
-    "opciones": [
-      "A. George Washington",
-      "B. Thomas Jefferson",
-      "C. Abraham Lincoln",
-      "D. John Adams"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿En qué año comenzó la Revolución Industrial?",
@@ -14133,7 +10377,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué tratado puso fin a la Guerra de los Treinta Años?",
@@ -14145,7 +10389,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Quién fue el líder revolucionario de Cuba en 1959?",
@@ -14157,7 +10401,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Cuál fue la civilización precolombina que construyó Tikal?",
@@ -14169,7 +10413,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué líder alemán inició la Segunda Guerra Mundial con la invasión a Polonia?",
@@ -14181,7 +10425,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
@@ -14193,7 +10437,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué imperio fue conocido por su sistema de carreteras llamado 'Qhapaq Ñan'?",
@@ -14205,7 +10449,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Quién fue el primer emperador del Sacro Imperio Romano Germánico?",
@@ -14217,7 +10461,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué batalla marcó el fin del Imperio Azteca?",
@@ -14229,7 +10473,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué rey francés fue conocido como el 'Rey Sol'?",
@@ -14241,7 +10485,7 @@
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Cuál fue la principal causa de la Revolución Rusa de 1905?",
@@ -14253,19 +10497,7 @@
     ],
     "respuesta_correcta": "B",
     "tema": "historia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
-    "opciones": [
-      "A. 1918",
-      "B. 1914",
-      "C. 1939",
-      "D. 1923"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Quién fue el fundador del Imperio Mongol?",
@@ -14277,7 +10509,7 @@
     ],
     "respuesta_correcta": "B",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Qué evento marcó el inicio de la Edad Moderna?",
@@ -14289,7 +10521,7 @@
     ],
     "respuesta_correcta": "B",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Quién fue el líder del movimiento de independencia de Vietnam?",
@@ -14301,7 +10533,7 @@
     ],
     "respuesta_correcta": "B",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Cuál fue el principal motivo de la Guerra Fría?",
@@ -14313,7 +10545,7 @@
     ],
     "respuesta_correcta": "B",
     "tema": "historia",
-    "dificultad": "dificil"
+    "dificultad": "medio"
   },
   {
     "pregunta": "¿Cuál fue el nombre del muro construido para separar Berlín en 1961?",
@@ -14502,18 +10734,6 @@
       "B. Hatshepsut",
       "C. Nefertiti",
       "D. Sobekneferu"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
-    "opciones": [
-      "A. Tratado de Versalles",
-      "B. Tratado de Brest-Litovsk",
-      "C. Tratado de Tordesillas",
-      "D. Tratado de Utrecht"
     ],
     "respuesta_correcta": "B",
     "tema": "historia",
@@ -14870,7 +11090,7 @@
   {
     "pregunta": "¿Cuál fue el nombre del tratado que terminó la Primera Guerra Mundial?",
     "opciones": [
-      "A. Tratado de Versalles",
+      "A. Tratado de Londres",
       "B. Tratado de París",
       "C. Tratado de Tordesillas",
       "D. Tratado de Versalles"
@@ -14907,7 +11127,7 @@
     "pregunta": "¿Quién escribió \"El Príncipe\", un tratado político sobre el poder y la gobernanza?",
     "opciones": [
       "A. Platón",
-      "B. Maquiavelo",
+      "B. Sócrates",
       "C. Aristóteles",
       "D. Maquiavelo"
     ],
@@ -14920,7 +11140,7 @@
     "opciones": [
       "A. La Revolución Francesa",
       "B. La caída de Constantinopla",
-      "C. El descubrimiento de América",
+      "C. La invención de la imprenta de Gutenberg",
       "D. El descubrimiento de América"
     ],
     "respuesta_correcta": "D",
@@ -14964,22 +11184,10 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿En qué año comenzó la Revolución Industrial?",
-    "opciones": [
-      "A. 1789",
-      "B. 1850",
-      "C. 1776",
-      "D. Finales del siglo XVIII"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Quién fue el líder carismático de la independencia de Venezuela?",
     "opciones": [
       "A. José de San Martín",
-      "B. Simón Bolívar",
+      "B. Emiliano Zapata",
       "C. Bernardo O’Higgins",
       "D. Simón Bolívar"
     ],
@@ -15051,7 +11259,7 @@
     "pregunta": "¿Cuál fue el nombre de la doctrina que justificaba la expansión estadounidense en el siglo XIX?",
     "opciones": [
       "A. Doctrina Monroe",
-      "B. Destino Manifiesto",
+      "B. Doctrina Washington",
       "C. Doctrina Truman",
       "D. Destino Manifiesto"
     ],
@@ -15084,36 +11292,12 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Quién fue el fundador del Imperio Persa aqueménida?",
-    "opciones": [
-      "A. Darío I",
-      "B. Jerjes I",
-      "C. Ciro el Grande",
-      "D. Ciro el Grande"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Cuál fue la principal innovación militar romana que contribuyó a su expansión?",
     "opciones": [
       "A. Catapultas",
       "B. Elefantes de guerra",
       "C. Arcos compuestos",
       "D. Legiones organizadas"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué tratado puso fin a la Guerra de los Cien Años?",
-    "opciones": [
-      "A. Tratado de Tordesillas",
-      "B. Tratado de Utrecht",
-      "C. Tratado de Westfalia",
-      "D. Tratado de París (1453)"
     ],
     "respuesta_correcta": "D",
     "tema": "historia",
@@ -15324,18 +11508,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Cuál fue la principal causa de la caída del Imperio Romano de Occidente?",
-    "opciones": [
-      "A. Invasiones bárbaras",
-      "B. Crisis económica",
-      "C. Decadencia moral",
-      "D. Divisiones internas"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Quién fue el emperador que dividió el Imperio Romano en dos en el año 395?",
     "opciones": [
       "A. Teodosio I",
@@ -15360,36 +11532,12 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
-    "opciones": [
-      "A. Tratado de Versalles",
-      "B. Tratado de París",
-      "C. Tratado de Utrecht",
-      "D. Tratado de Tordesillas"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Quién fue el fundador de la ciudad de Roma según la mitología romana?",
     "opciones": [
       "A. Rómulo",
       "B. Remo",
       "C. Julio César",
       "D. César Augusto"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Cuál fue la civilización que desarrolló el sistema de escritura cuneiforme?",
-    "opciones": [
-      "A. Sumeria",
-      "B. Egipcia",
-      "C. Maya",
-      "D. Fenicia"
     ],
     "respuesta_correcta": "A",
     "tema": "historia",
@@ -15416,18 +11564,6 @@
       "D. 1302"
     ],
     "respuesta_correcta": "A",
-    "tema": "historia",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Cuál fue la capital del Imperio Inca?",
-    "opciones": [
-      "A. Cajamarca",
-      "B. Cusco",
-      "C. Quito",
-      "D. Lima"
-    ],
-    "respuesta_correcta": "B",
     "tema": "historia",
     "dificultad": "trivia_hell"
   },
@@ -15506,7 +11642,7 @@
   {
     "pregunta": "¿Qué grupo fue responsable del asesinato del archiduque Francisco Fernando, detonante de la Primera Guerra Mundial?",
     "opciones": [
-      "A. La Mano Negra",
+      "A. Partido Pantera Negra",
       "B. La Mano Negra",
       "C. Los Jóvenes Turcos",
       "D. La Camorra"
@@ -15590,7 +11726,7 @@
   {
     "pregunta": "¿Qué conferencia europea dividió África entre las potencias coloniales a finales del siglo XIX?",
     "opciones": [
-      "A. Conferencia de Berlín",
+      "A. Conferencia de Londres",
       "B. Conferencia de Berlín",
       "C. Congreso de Viena",
       "D. Conferencia de París"
@@ -15630,18 +11766,6 @@
       "B. Waterloo",
       "C. Leipzig",
       "D. Borodino"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "historia",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Quién fue el fundador del Imperio mongol?",
-    "opciones": [
-      "A. Kublai Khan",
-      "B. Genghis Khan",
-      "C. Ögedei Khan",
-      "D. Tamerlán"
     ],
     "respuesta_correcta": "B",
     "tema": "historia",
@@ -16011,7 +12135,7 @@
     "pregunta": "¿Qué tratado puso fin a la Guerra de los Treinta Años en 1648?",
     "opciones": [
       "A. Tratado de Utrecht",
-      "B. Paz de Westfalia",
+      "B. Paz de Zanjon",
       "C. Tratado de Ryswick",
       "D. Paz de Westfalia"
     ],
@@ -16104,18 +12228,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué tratado dividió el mundo no europeo entre España y Portugal en 1494?",
-    "opciones": [
-      "A. Tratado de París",
-      "B. Tratado de Utrecht",
-      "C. Tratado de Westfalia",
-      "D. Tratado de Tordesillas"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "historia",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Cuál fue la civilización precolombina que construyó Machu Picchu?",
     "opciones": [
       "A. Azteca",
@@ -16178,7 +12290,7 @@
   {
     "pregunta": "¿Qué batalla naval en 1805 consolidó la supremacía marítima británica contra Napoleón?",
     "opciones": [
-      "A. Trafalgar",
+      "A. Bismarck",
       "B. Jutlandia",
       "C. Salamina",
       "D. Trafalgar"
@@ -16350,18 +12462,6 @@
       "B. Stephen King",
       "C. Suzanne Collins",
       "D. George R.R. Martin"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "entretenimiento",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué instrumento musical tiene teclas blancas y negras?",
-    "opciones": [
-      "A. Piano",
-      "B. Guitarra",
-      "C. Batería",
-      "D. Violín"
     ],
     "respuesta_correcta": "A",
     "tema": "entretenimiento",
@@ -16778,7 +12878,7 @@
   {
     "pregunta": "¿Qué serie tiene como protagonistas a un grupo de niños en el pueblo de Hawkins?",
     "opciones": [
-      "A. Stranger Things",
+      "A. Flea Bag",
       "B. Stranger Things",
       "C. The OA",
       "D. Dark"
@@ -16826,7 +12926,7 @@
   {
     "pregunta": "¿Quién interpreta a Eleven en la serie 'Stranger Things'?",
     "opciones": [
-      "A. Millie Bobby Brown",
+      "A. Emma Thompson",
       "B. Millie Bobby Brown",
       "C. Natalia Dyer",
       "D. Sadie Sink"
@@ -17064,18 +13164,6 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿Qué película animada presenta a un muñeco de nieve llamado Olaf?",
-    "opciones": [
-      "A. Moana",
-      "B. Enredados",
-      "C. Frozen",
-      "D. La Bella y la Bestia"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "entretenimiento",
-    "dificultad": "muy_facil"
-  },
-  {
     "pregunta": "¿Cuál es el nombre del protagonista de la serie 'Breaking Bad'?",
     "opciones": [
       "A. Jesse Pinkman",
@@ -17127,21 +13215,9 @@
     "pregunta": "¿Quién protagoniza la saga cinematográfica 'Matrix'?",
     "opciones": [
       "A. Brad Pitt",
-      "B. Keanu Reeves",
+      "B. Denzel Washington",
       "C. Keanu Reeves",
       "D. Tom Cruise"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "entretenimiento",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué cantante es conocido como 'La Reina del Pop'?",
-    "opciones": [
-      "A. Lady Gaga",
-      "B. Beyoncé",
-      "C. Madonna",
-      "D. Britney Spears"
     ],
     "respuesta_correcta": "C",
     "tema": "entretenimiento",
@@ -17163,7 +13239,7 @@
     "pregunta": "¿Cuál es el nombre del protagonista en la saga 'Jurassic Park'?",
     "opciones": [
       "A. Ian Malcolm",
-      "B. Alan Grant",
+      "B. John Connor",
       "C. Alan Grant",
       "D. John Hammond"
     ],
@@ -17284,7 +13360,7 @@
     "opciones": [
       "A. Donald",
       "B. Goofy",
-      "C. Pluto",
+      "C. Minnie",
       "D. Pluto"
     ],
     "respuesta_correcta": "D",
@@ -17412,18 +13488,6 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿En qué serie aparece el personaje Walter White?",
-    "opciones": [
-      "A. The Wire",
-      "B. Sons of Anarchy",
-      "C. Breaking Bad",
-      "D. Breaking Bad"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "muy_facil"
-  },
-  {
     "pregunta": "¿Qué videojuego tiene el modo 'Battle Royale' y fue muy popular en 2018?",
     "opciones": [
       "A. Minecraft",
@@ -17482,30 +13546,6 @@
     "respuesta_correcta": "D",
     "tema": "entretenimiento",
     "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Quién es el creador de la serie 'Los Simpson'?",
-    "opciones": [
-      "A. Matt Groening",
-      "B. Seth MacFarlane",
-      "C. Trey Parker",
-      "D. Mike Judge"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "entretenimiento",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el nombre del mago protagonista de la saga 'Harry Potter'?",
-    "opciones": [
-      "A. Harry Potter",
-      "B. Ron Weasley",
-      "C. Draco Malfoy",
-      "D. Severus Snape"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "entretenimiento",
-    "dificultad": "facil"
   },
   {
     "pregunta": "¿En qué película aparece el personaje Simba?",
@@ -17808,18 +13848,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué cantante lanzó el álbum '25' en 2015?",
-    "opciones": [
-      "A. Beyoncé",
-      "B. Adele",
-      "C. Taylor Swift",
-      "D. Rihanna"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Quién dirigió la trilogía original de 'El Señor de los Anillos'?",
     "opciones": [
       "A. James Cameron",
@@ -18036,18 +14064,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Cuál es el nombre de la princesa en la película 'La Bella Durmiente'?",
-    "opciones": [
-      "A. Blancanieves",
-      "B. Aurora",
-      "C. Cenicienta",
-      "D. Ariel"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Cuál es la ciudad donde se desarrolla la serie 'Friends'?",
     "opciones": [
       "A. Los Ángeles",
@@ -18126,18 +14142,6 @@
       "B. Merlin",
       "C. Harry Potter",
       "D. Gandalf"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "entretenimiento",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué cantante es conocido como 'La Reina del Pop'?",
-    "opciones": [
-      "A. Lady Gaga",
-      "B. Beyoncé",
-      "C. Madonna",
-      "D. Rihanna"
     ],
     "respuesta_correcta": "C",
     "tema": "entretenimiento",
@@ -18468,18 +14472,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué cantante es conocido como 'El Rey del Pop'?",
-    "opciones": [
-      "A. Prince",
-      "B. Elvis Presley",
-      "C. Bruno Mars",
-      "D. Michael Jackson"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Cuál es la saga de películas con personajes llamados Luke, Leia y Darth Vader?",
     "opciones": [
       "A. Star Trek",
@@ -18588,18 +14580,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Cuál es el nombre del villano en la película 'El Rey León'?",
-    "opciones": [
-      "A. Scar",
-      "B. Jafar",
-      "C. Hades",
-      "D. Maléfica"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué película tiene como protagonistas a Woody y Buzz Lightyear?",
     "opciones": [
       "A. Monsters Inc.",
@@ -18618,30 +14598,6 @@
       "B. Apex Legends",
       "C. Valorant",
       "D. Counter-Strike"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Quién es el creador de la saga 'Star Wars'?",
-    "opciones": [
-      "A. James Cameron",
-      "B. Steven Spielberg",
-      "C. Ridley Scott",
-      "D. George Lucas"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el nombre de la princesa en la película 'La Bella Durmiente'?",
-    "opciones": [
-      "A. Ariel",
-      "B. Blancanieves",
-      "C. Cenicienta",
-      "D. Aurora"
     ],
     "respuesta_correcta": "D",
     "tema": "entretenimiento",
@@ -18762,18 +14718,6 @@
       "B. Anna",
       "C. Rapunzel",
       "D. Ariel"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué cantante lanzó el álbum 'Thriller' en 1982?",
-    "opciones": [
-      "A. Michael Jackson",
-      "B. Prince",
-      "C. Madonna",
-      "D. David Bowie"
     ],
     "respuesta_correcta": "A",
     "tema": "entretenimiento",
@@ -18912,18 +14856,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Quién es el cantante principal de la banda Queen?",
-    "opciones": [
-      "A. Freddie Mercury",
-      "B. Brian May",
-      "C. Roger Taylor",
-      "D. John Deacon"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Qué serie televisiva presenta a un grupo de supervivientes en una isla misteriosa?",
     "opciones": [
       "A. Lost",
@@ -19008,18 +14940,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Cuál es el nombre del mago que enseña en Hogwarts y tiene barba blanca?",
-    "opciones": [
-      "A. Severus Snape",
-      "B. Albus Dumbledore",
-      "C. Harry Potter",
-      "D. Sirius Black"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Qué director es conocido por películas como 'E.T.' y 'Jurassic Park'?",
     "opciones": [
       "A. James Cameron",
@@ -19032,36 +14952,12 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Cuál es el nombre del videojuego donde los jugadores construyen con bloques en un mundo abierto?",
-    "opciones": [
-      "A. Roblox",
-      "B. Minecraft",
-      "C. Fortnite",
-      "D. Terraria"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Quién fue el cantante principal de la banda Queen?",
     "opciones": [
       "A. Brian May",
       "B. Freddie Mercury",
       "C. Roger Taylor",
       "D. John Deacon"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué serie televisiva presenta a un grupo de supervivientes en una isla misteriosa?",
-    "opciones": [
-      "A. Survivor",
-      "B. Lost",
-      "C. The 100",
-      "D. The Walking Dead"
     ],
     "respuesta_correcta": "B",
     "tema": "entretenimiento",
@@ -19086,42 +14982,6 @@
       "B. George R.R. Martin",
       "C. Tolkien",
       "D. Suzanne Collins"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué actriz protagoniza la película 'La La Land' junto a Ryan Gosling?",
-    "opciones": [
-      "A. Jennifer Lawrence",
-      "B. Emma Stone",
-      "C. Scarlett Johansson",
-      "D. Natalie Portman"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué película ganó el Oscar a Mejor Película en 1994?",
-    "opciones": [
-      "A. Pulp Fiction",
-      "B. Forrest Gump",
-      "C. The Shawshank Redemption",
-      "D. Braveheart"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué cantante lanzó el álbum 'Thriller' en 1982?",
-    "opciones": [
-      "A. Prince",
-      "B. Michael Jackson",
-      "C. Madonna",
-      "D. David Bowie"
     ],
     "respuesta_correcta": "B",
     "tema": "entretenimiento",
@@ -19170,18 +15030,6 @@
       "B. Darth Vader",
       "C. Emperor Palpatine",
       "D. Boba Fett"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué cantante es conocido como 'La Reina del Pop'?",
-    "opciones": [
-      "A. Whitney Houston",
-      "B. Madonna",
-      "C. Lady Gaga",
-      "D. Beyoncé"
     ],
     "respuesta_correcta": "B",
     "tema": "entretenimiento",
@@ -19320,18 +15168,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Quién es el creador de la serie animada 'Los Simpson'?",
-    "opciones": [
-      "A. Seth MacFarlane",
-      "B. Matt Groening",
-      "C. Trey Parker",
-      "D. Mike Judge"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Qué actor interpreta a Neo en la película 'Matrix'?",
     "opciones": [
       "A. Brad Pitt",
@@ -19344,36 +15180,12 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿En qué serie aparece el personaje Walter White?",
-    "opciones": [
-      "A. Sons of Anarchy",
-      "B. The Sopranos",
-      "C. Breaking Bad",
-      "D. Dexter"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Cuál es el nombre del primer álbum de la banda Queen?",
     "opciones": [
       "A. News of the World",
       "B. A Night at the Opera",
       "C. Queen",
       "D. The Game"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué cantante es conocido como 'El Rey del Pop'?",
-    "opciones": [
-      "A. Prince",
-      "B. Elvis Presley",
-      "C. Michael Jackson",
-      "D. Bruno Mars"
     ],
     "respuesta_correcta": "C",
     "tema": "entretenimiento",
@@ -19563,7 +15375,7 @@
     "pregunta": "¿Qué actriz protagoniza la serie 'Buffy, la cazavampiros'?",
     "opciones": [
       "A. Alyson Hannigan",
-      "B. Sarah Michelle Gellar",
+      "B. Emma Thompson",
       "C. Sarah Michelle Gellar",
       "D. Eliza Dushku"
     ],
@@ -19779,7 +15591,7 @@
     "pregunta": "¿Qué película animada es protagonizada por un robot llamado Baymax?",
     "opciones": [
       "A. WALL-E",
-      "B. Big Hero 6",
+      "B. La família Mitchell contra las máquinas",
       "C. Robots",
       "D. Big Hero 6"
     ],
@@ -19806,30 +15618,6 @@
       "B. Bruce Banner",
       "C. Thor",
       "D. Steve Rogers"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es el nombre del villano en la película 'El Rey León'?",
-    "opciones": [
-      "A. Scar",
-      "B. Mufasa",
-      "C. Timón",
-      "D. Scar"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué cantante es conocido como 'La Reina del Pop'?",
-    "opciones": [
-      "A. Lady Gaga",
-      "B. Beyoncé",
-      "C. Adele",
-      "D. Madonna"
     ],
     "respuesta_correcta": "D",
     "tema": "entretenimiento",
@@ -19876,7 +15664,7 @@
     "opciones": [
       "A. Courteney Cox",
       "B. Lisa Kudrow",
-      "C. Jennifer Aniston",
+      "C. Anna Faris",
       "D. Jennifer Aniston"
     ],
     "respuesta_correcta": "D",
@@ -20376,18 +16164,6 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Quién pintó 'La persistencia de la memoria'?",
-    "opciones": [
-      "A. Pablo Picasso",
-      "B. Salvador Dalí",
-      "C. Joan Miró",
-      "D. Diego Rivera"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿En qué año se publicó 'El Señor de los Anillos: La Comunidad del Anillo'?",
     "opciones": [
       "A. 1940",
@@ -20618,7 +16394,7 @@
   {
     "pregunta": "¿Quién escribió la obra teatral 'La Casa de Bernarda Alba'?",
     "opciones": [
-      "A. Federico García Lorca",
+      "A. Miguel de Cervantes",
       "B. Miguel de Unamuno",
       "C. Federico García Lorca",
       "D. Lope de Vega"
@@ -20646,18 +16422,6 @@
       "B. South Park",
       "C. Beavis and Butt-Head",
       "D. Family Guy"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "entretenimiento",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué película ganó el Oscar a Mejor Película en 1994?",
-    "opciones": [
-      "A. Pulp Fiction",
-      "B. Cuatro bodas y un funeral",
-      "C. Forrest Gump",
-      "D. The Shawshank Redemption"
     ],
     "respuesta_correcta": "C",
     "tema": "entretenimiento",
@@ -20762,7 +16526,7 @@
   {
     "pregunta": "¿Cuál es el nombre del autor de la saga 'El archivo de las tormentas'?",
     "opciones": [
-      "A. Brandon Sanderson",
+      "A. Robin Hobb",
       "B. Patrick Rothfuss",
       "C. Brandon Sanderson",
       "D. George R.R. Martin"
@@ -20808,18 +16572,6 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Quién escribió la novela 'Crimen y castigo'?",
-    "opciones": [
-      "A. Tolstói",
-      "B. Dostoievski",
-      "C. Turgenev",
-      "D. Fiódor Dostoievski"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Cuál es la nacionalidad del director de cine Akira Kurosawa?",
     "opciones": [
       "A. China",
@@ -20844,21 +16596,9 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Qué autor creó el personaje Sherlock Holmes?",
-    "opciones": [
-      "A. Agatha Christie",
-      "B. Arthur Machen",
-      "C. Edgar Allan Poe",
-      "D. Arthur Conan Doyle"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Cuál fue la primera película de animación nominada a un Oscar a Mejor Película?",
     "opciones": [
-      "A. La Bella y la Bestia",
+      "A. Tiana y el sapo",
       "B. El Rey León",
       "C. Aladdin",
       "D. La Bella y la Bestia"
@@ -20872,7 +16612,7 @@
     "opciones": [
       "A. Brad Pitt",
       "B. Leonardo DiCaprio",
-      "C. Keanu Reeves",
+      "C. Will Smith",
       "D. Keanu Reeves"
     ],
     "respuesta_correcta": "D",
@@ -20918,22 +16658,10 @@
   {
     "pregunta": "¿Qué escritor es conocido por la novela 'El proceso'?",
     "opciones": [
-      "A. Franz Kafka",
+      "A. Robin Hobb",
       "B. Albert Camus",
       "C. Jean-Paul Sartre",
       "D. Franz Kafka"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué cantante es conocido como 'La Reina del Pop'?",
-    "opciones": [
-      "A. Whitney Houston",
-      "B. Celine Dion",
-      "C. Lady Gaga",
-      "D. Madonna"
     ],
     "respuesta_correcta": "D",
     "tema": "entretenimiento",
@@ -20967,7 +16695,7 @@
     "pregunta": "¿Qué novela comienza con la frase 'Todas las familias felices se parecen...'?",
     "opciones": [
       "A. La guerra y la paz",
-      "B. Ana Karenina",
+      "B. Moby Dick",
       "C. Crimen y castigo",
       "D. Ana Karenina"
     ],
@@ -21012,36 +16740,12 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Quién escribió la novela 'Cien años de soledad'?",
-    "opciones": [
-      "A. Mario Vargas Llosa",
-      "B. Julio Cortázar",
-      "C. Carlos Fuentes",
-      "D. Gabriel García Márquez"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Qué artista pintó 'La persistencia de la memoria'?",
     "opciones": [
       "A. Picasso",
       "B. Miró",
       "C. Kandinsky",
       "D. Salvador Dalí"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Quién compuso la música para la película 'El Padrino'?",
-    "opciones": [
-      "A. Hans Zimmer",
-      "B. John Williams",
-      "C. Ennio Morricone",
-      "D. Nino Rota"
     ],
     "respuesta_correcta": "D",
     "tema": "entretenimiento",
@@ -21060,23 +16764,11 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Qué actor interpretó a Jack Sparrow en 'Piratas del Caribe'?",
-    "opciones": [
-      "A. Orlando Bloom",
-      "B. Geoffrey Rush",
-      "C. Ian McShane",
-      "D. Johnny Depp"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Cuál es el nombre del director de cine de la película 'Pulp Fiction'?",
     "opciones": [
       "A. Martin Scorsese",
       "B. Francis Ford Coppola",
-      "C. Quentin Tarantino",
+      "C. Steven Spielberg",
       "D. Quentin Tarantino"
     ],
     "respuesta_correcta": "D",
@@ -21336,18 +17028,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Quién pintó 'El jardín de las delicias'?",
-    "opciones": [
-      "A. Hieronymus Bosch",
-      "B. Pieter Bruegel",
-      "C. Albrecht Dürer",
-      "D. El Bosco"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "entretenimiento",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Qué compositor creó la música para la película 'Lawrence de Arabia'?",
     "opciones": [
       "A. Maurice Jarre",
@@ -21380,18 +17060,6 @@
       "D. The Who"
     ],
     "respuesta_correcta": "A",
-    "tema": "entretenimiento",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Quién compuso la ópera 'La Traviata'?",
-    "opciones": [
-      "A. Giacomo Puccini",
-      "B. Giuseppe Verdi",
-      "C. Richard Wagner",
-      "D. Georges Bizet"
-    ],
-    "respuesta_correcta": "B",
     "tema": "entretenimiento",
     "dificultad": "trivia_hell"
   },
@@ -21438,18 +17106,6 @@
       "B. Edvard Munch",
       "C. Vincent van Gogh",
       "D. Gustav Klimt"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Qué cantante es conocido como 'El Rey del Pop'?",
-    "opciones": [
-      "A. Elvis Presley",
-      "B. Michael Jackson",
-      "C. Prince",
-      "D. Freddie Mercury"
     ],
     "respuesta_correcta": "B",
     "tema": "entretenimiento",
@@ -21540,18 +17196,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Quién escribió la novela 'El proceso'?",
-    "opciones": [
-      "A. Albert Camus",
-      "B. Franz Kafka",
-      "C. Jean-Paul Sartre",
-      "D. Thomas Mann"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Qué videojuego popular fue creado por Markus Persson?",
     "opciones": [
       "A. Fortnite",
@@ -21600,18 +17244,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué autor creó el personaje Sherlock Holmes?",
-    "opciones": [
-      "A. Agatha Christie",
-      "B. Arthur Conan Doyle",
-      "C. Edgar Allan Poe",
-      "D. Wilkie Collins"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Qué obra musical es atribuida a Johann Sebastian Bach?",
     "opciones": [
       "A. La Flauta Mágica",
@@ -21630,18 +17262,6 @@
       "B. Federico Fellini",
       "C. Andrei Tarkovski",
       "D. Jean-Luc Godard"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "entretenimiento",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Qué banda lanzó el álbum 'Dark Side of the Moon'?",
-    "opciones": [
-      "A. Led Zeppelin",
-      "B. Pink Floyd",
-      "C. The Beatles",
-      "D. The Rolling Stones"
     ],
     "respuesta_correcta": "B",
     "tema": "entretenimiento",
@@ -21876,18 +17496,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Quién escribió la novela '1984'?",
-    "opciones": [
-      "A. Aldous Huxley",
-      "B. Ray Bradbury",
-      "C. George Orwell",
-      "D. Philip K. Dick"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "entretenimiento",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿En qué país se originó el género musical K-pop?",
     "opciones": [
       "A. Japón",
@@ -21960,42 +17568,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Cuál es el nombre del protagonista en la novela 'Moby Dick'?",
-    "opciones": [
-      "A. Queequeg",
-      "B. Starbuck",
-      "C. Ismael",
-      "D. Ahab"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "entretenimiento",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Qué película ganó el Oscar a Mejor Película en 1994?",
-    "opciones": [
-      "A. Cuatro bodas y un funeral",
-      "B. Pulp Fiction",
-      "C. Forrest Gump",
-      "D. The Shawshank Redemption"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "entretenimiento",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Quién compuso la banda sonora de la película 'El Padrino'?",
-    "opciones": [
-      "A. Hans Zimmer",
-      "B. John Williams",
-      "C. Ennio Morricone",
-      "D. Nino Rota"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Cuál es el nombre del director de la película 'Apocalypse Now'?",
     "opciones": [
       "A. Stanley Kubrick",
@@ -22026,18 +17598,6 @@
       "B. Gabriel García Márquez",
       "C. Jorge Luis Borges",
       "D. Mario Vargas Llosa"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Cuál fue la primera película de animación en ganar un Oscar a Mejor Película de Animación?",
-    "opciones": [
-      "A. Shrek",
-      "B. Toy Story",
-      "C. La Bella y la Bestia",
-      "D. Finding Nemo"
     ],
     "respuesta_correcta": "D",
     "tema": "entretenimiento",
@@ -22194,18 +17754,6 @@
       "B. Barry Lyndon",
       "C. El resplandor",
       "D. Eyes Wide Shut"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "entretenimiento",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Qué cantante lanzó el álbum 'Thriller'?",
-    "opciones": [
-      "A. Prince",
-      "B. David Bowie",
-      "C. Lionel Richie",
-      "D. Michael Jackson"
     ],
     "respuesta_correcta": "D",
     "tema": "entretenimiento",
@@ -22896,42 +18444,6 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿Cuál es el planeta más cercano al Sol?",
-    "opciones": [
-      "A. Venus",
-      "B. Tierra",
-      "C. Mercurio",
-      "D. Marte"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué tipo de animal es una rana?",
-    "opciones": [
-      "A. Reptil",
-      "B. Mamífero",
-      "C. Anfibio",
-      "D. Ave"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es el principal componente del aire que respiramos?",
-    "opciones": [
-      "A. Oxígeno",
-      "B. Dióxido de carbono",
-      "C. Nitrógeno",
-      "D. Argón"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "muy_facil"
-  },
-  {
     "pregunta": "¿Qué órgano del cuerpo humano almacena la bilis?",
     "opciones": [
       "A. Hígado",
@@ -22950,18 +18462,6 @@
       "B. Costilla",
       "C. Fémur",
       "D. Húmero"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
-    "opciones": [
-      "A. Oxígeno",
-      "B. Dióxido de carbono",
-      "C. Nitrógeno",
-      "D. Argón"
     ],
     "respuesta_correcta": "C",
     "tema": "ciencias_naturaleza",
@@ -23472,18 +18972,6 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿Cuál es el planeta más cercano al Sol?",
-    "opciones": [
-      "A. Mercurio",
-      "B. Venus",
-      "C. Marte",
-      "D. Júpiter"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué órgano del cuerpo humano se encarga de filtrar la sangre?",
     "opciones": [
       "A. Riñones",
@@ -23544,18 +19032,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Cuál es el hueso más grande del cuerpo humano?",
-    "opciones": [
-      "A. Fémur",
-      "B. Húmero",
-      "C. Radio",
-      "D. Tibia"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué instrumento se usa para medir la temperatura?",
     "opciones": [
       "A. Termómetro",
@@ -23574,18 +19050,6 @@
       "B. Venus",
       "C. Júpiter",
       "D. Saturno"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el órgano principal del sistema respiratorio?",
-    "opciones": [
-      "A. Pulmones",
-      "B. Corazón",
-      "C. Estómago",
-      "D. Riñones"
     ],
     "respuesta_correcta": "A",
     "tema": "ciencias_naturaleza",
@@ -23784,18 +19248,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
-    "opciones": [
-      "A. Oxígeno",
-      "B. Nitrógeno",
-      "C. Dióxido de carbono",
-      "D. Argón"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Cuál es el órgano principal encargado de bombear la sangre en el cuerpo humano?",
     "opciones": [
       "A. Pulmones",
@@ -23844,30 +19296,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué planeta es conocido como el planeta azul?",
-    "opciones": [
-      "A. Marte",
-      "B. Tierra",
-      "C. Venus",
-      "D. Júpiter"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué órgano del cuerpo humano produce insulina?",
-    "opciones": [
-      "A. Hígado",
-      "B. Páncreas",
-      "C. Riñón",
-      "D. Corazón"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué animal es el más grande que ha existido en la Tierra?",
     "opciones": [
       "A. Elefante",
@@ -23886,30 +19314,6 @@
       "B. Fotosíntesis",
       "C. Germinación",
       "D. Fermentación"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué tipo de animal es una rana?",
-    "opciones": [
-      "A. Reptil",
-      "B. Anfibio",
-      "C. Mamífero",
-      "D. Ave"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué mineral es esencial para transportar oxígeno en la sangre?",
-    "opciones": [
-      "A. Calcio",
-      "B. Hierro",
-      "C. Potasio",
-      "D. Sodio"
     ],
     "respuesta_correcta": "B",
     "tema": "ciencias_naturaleza",
@@ -23982,18 +19386,6 @@
       "B. Oxígeno",
       "C. Carbono",
       "D. Hidrógeno"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
-    "opciones": [
-      "A. Húmero",
-      "B. Fémur",
-      "C. Radio",
-      "D. Tibia"
     ],
     "respuesta_correcta": "B",
     "tema": "ciencias_naturaleza",
@@ -24096,36 +19488,12 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Cuál es el órgano encargado de filtrar la sangre en el cuerpo humano?",
-    "opciones": [
-      "A. Corazón",
-      "B. Hígado",
-      "C. Riñones",
-      "D. Pulmones"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué gas es fundamental para la fotosíntesis?",
     "opciones": [
       "A. Oxígeno",
       "B. Nitrógeno",
       "C. Dióxido de carbono",
       "D. Argón"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
-    "opciones": [
-      "A. Radio",
-      "B. Clavícula",
-      "C. Fémur",
-      "D. Tibia"
     ],
     "respuesta_correcta": "C",
     "tema": "ciencias_naturaleza",
@@ -24180,18 +19548,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué animal es conocido por tener ocho patas?",
-    "opciones": [
-      "A. Cangrejo",
-      "B. Pulpo gigante",
-      "C. Araña",
-      "D. Ciempiés"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué vitamina produce la piel al exponerse al sol?",
     "opciones": [
       "A. Vitamina B12",
@@ -24210,30 +19566,6 @@
       "B. Pez espada",
       "C. Delfín",
       "D. Medusa"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el principal componente del aire que respiramos?",
-    "opciones": [
-      "A. Oxígeno",
-      "B. Dióxido de carbono",
-      "C. Nitrógeno",
-      "D. Helio"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el nombre del hueso que protege el cerebro?",
-    "opciones": [
-      "A. Vértebra",
-      "B. Escápula",
-      "C. Cráneo",
-      "D. Esternón"
     ],
     "respuesta_correcta": "C",
     "tema": "ciencias_naturaleza",
@@ -24312,30 +19644,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué órgano del cuerpo humano bombea la sangre?",
-    "opciones": [
-      "A. Pulmón",
-      "B. Estómago",
-      "C. Corazón",
-      "D. Cerebro"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué fenómeno natural se mide con la escala Richter?",
-    "opciones": [
-      "A. Huracanes",
-      "B. Tornados",
-      "C. Terremotos",
-      "D. Tsunamis"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué animal se caracteriza por tener una trompa larga?",
     "opciones": [
       "A. Rinoceronte",
@@ -24396,18 +19704,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Cuál es el planeta más cercano al Sol?",
-    "opciones": [
-      "A. Venus",
-      "B. Tierra",
-      "C. Marte",
-      "D. Mercurio"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué órgano humano se encarga de producir bilis?",
     "opciones": [
       "A. Riñón",
@@ -24438,18 +19734,6 @@
       "B. Anfibio",
       "C. Pez",
       "D. Reptil"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el elemento químico con símbolo 'O'?",
-    "opciones": [
-      "A. Oro",
-      "B. Osmio",
-      "C. Oxalato",
-      "D. Oxígeno"
     ],
     "respuesta_correcta": "D",
     "tema": "ciencias_naturaleza",
@@ -24528,18 +19812,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué animal es conocido por construir presas en los ríos?",
-    "opciones": [
-      "A. Castor",
-      "B. Nutria",
-      "C. Rata",
-      "D. Castor"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Cuál es el órgano que produce la insulina en el cuerpo humano?",
     "opciones": [
       "A. Hígado",
@@ -24576,18 +19848,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué tipo de energía proviene del sol?",
-    "opciones": [
-      "A. Eléctrica",
-      "B. Eólica",
-      "C. Nuclear",
-      "D. Solar"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué órgano del cuerpo humano es responsable de procesar los alimentos?",
     "opciones": [
       "A. Riñón",
@@ -24602,7 +19862,7 @@
   {
     "pregunta": "¿Qué animal es conocido por cambiar de color para camuflarse?",
     "opciones": [
-      "A. Camaleón",
+      "A. Serpiente",
       "B. Lagarto",
       "C. Iguana",
       "D. Camaleón"
@@ -24708,30 +19968,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Qué tipo de roca se forma a partir de magma solidificado?",
-    "opciones": [
-      "A. Ígnea",
-      "B. Sedimentaria",
-      "C. Metamórfica",
-      "D. Orgánica"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
-    "opciones": [
-      "A. Nitrógeno",
-      "B. Oxígeno",
-      "C. Argón",
-      "D. Dióxido de carbono"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Qué proceso celular convierte la glucosa en energía utilizable?",
     "opciones": [
       "A. Respiración celular",
@@ -24750,30 +19986,6 @@
       "B. Cromosoma",
       "C. Núcleo",
       "D. Proteína"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué órgano del cuerpo humano produce insulina?",
-    "opciones": [
-      "A. Páncreas",
-      "B. Hígado",
-      "C. Riñón",
-      "D. Estómago"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es el principal componente del aire que exhalamos?",
-    "opciones": [
-      "A. Dióxido de carbono",
-      "B. Oxígeno",
-      "C. Nitrógeno",
-      "D. Vapor de agua"
     ],
     "respuesta_correcta": "A",
     "tema": "ciencias_naturaleza",
@@ -24942,18 +20154,6 @@
       "B. Nitrógeno",
       "C. Oxígeno",
       "D. Argón"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué mineral es esencial para la formación de huesos y dientes?",
-    "opciones": [
-      "A. Calcio",
-      "B. Hierro",
-      "C. Magnesio",
-      "D. Zinc"
     ],
     "respuesta_correcta": "A",
     "tema": "ciencias_naturaleza",
@@ -25296,18 +20496,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Cuál es el principal gas responsable del efecto invernadero?",
-    "opciones": [
-      "A. Oxígeno",
-      "B. Nitrógeno",
-      "C. Dióxido de carbono",
-      "D. Argón"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Qué parte del sistema nervioso central está protegida por la columna vertebral?",
     "opciones": [
       "A. Cerebro",
@@ -25323,7 +20511,7 @@
     "pregunta": "¿Cuál es la molécula que transporta oxígeno en la sangre?",
     "opciones": [
       "A. Insulina",
-      "B. Hemoglobina",
+      "B. Leucocitos",
       "C. Hemoglobina",
       "D. Colágeno"
     ],
@@ -25374,18 +20562,6 @@
       "B. Tallo",
       "C. Hoja",
       "D. Flor"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué partícula subatómica tiene carga negativa?",
-    "opciones": [
-      "A. Protón",
-      "B. Neutrón",
-      "C. Electrón",
-      "D. Positrón"
     ],
     "respuesta_correcta": "C",
     "tema": "ciencias_naturaleza",
@@ -25464,18 +20640,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Qué mineral es esencial para la formación de huesos y dientes?",
-    "opciones": [
-      "A. Sodio",
-      "B. Potasio",
-      "C. Calcio",
-      "D. Cobre"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Cómo se llama la reproducción en la que intervienen dos organismos distintos?",
     "opciones": [
       "A. Asexual",
@@ -25548,48 +20712,12 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Cuál es el nombre del hueso que protege el cerebro?",
-    "opciones": [
-      "A. Vértebra",
-      "B. Costilla",
-      "C. Cráneo",
-      "D. Escápula"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Qué tipo de tejido conecta los huesos entre sí?",
     "opciones": [
       "A. Tendón",
       "B. Músculo",
       "C. Ligamento",
       "D. Cartílago"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
-    "opciones": [
-      "A. Venus",
-      "B. Júpiter",
-      "C. Marte",
-      "D. Saturno"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la principal función de los ribosomas en una célula?",
-    "opciones": [
-      "A. Almacenar energía",
-      "B. Controlar la división celular",
-      "C. Sintetizar proteínas",
-      "D. Transportar nutrientes"
     ],
     "respuesta_correcta": "C",
     "tema": "ciencias_naturaleza",
@@ -25716,18 +20844,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Cuál es el principal componente del aire que respiramos?",
-    "opciones": [
-      "A. Dióxido de carbono",
-      "B. Oxígeno",
-      "C. Vapor de agua",
-      "D. Nitrógeno"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Qué tipo de planta produce semillas sin flores ni frutos?",
     "opciones": [
       "A. Angiospermas",
@@ -25758,18 +20874,6 @@
       "B. Competencia",
       "C. Amensalismo",
       "D. Mutualismo"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es el nombre del hueso más largo del cuerpo humano?",
-    "opciones": [
-      "A. Radio",
-      "B. Clavícula",
-      "C. Cráneo",
-      "D. Fémur"
     ],
     "respuesta_correcta": "D",
     "tema": "ciencias_naturaleza",
@@ -25894,18 +20998,6 @@
     "respuesta_correcta": "D",
     "tema": "ciencias_naturaleza",
     "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es el principal gas responsable del efecto invernadero?",
-    "opciones": [
-      "A. Dióxido de carbono",
-      "B. Metano",
-      "C. Oxígeno",
-      "D. Nitrógeno"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
   },
   {
     "pregunta": "¿Qué órgano del cuerpo humano produce la hormona insulina?",
@@ -26064,48 +21156,12 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Qué partícula subatómica tiene carga negativa?",
-    "opciones": [
-      "A. Electrón",
-      "B. Protón",
-      "C. Neutrón",
-      "D. Positrón"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Cuál es el nombre del hueso que protege el cerebro?",
-    "opciones": [
-      "A. Cráneo",
-      "B. Escápula",
-      "C. Fémur",
-      "D. Esternón"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Qué tipo de músculo está controlado de forma voluntaria?",
     "opciones": [
       "A. Músculo esquelético",
       "B. Músculo liso",
       "C. Músculo cardíaco",
       "D. Músculo involuntario"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Cuál es la unidad básica de la herencia genética?",
-    "opciones": [
-      "A. Gen",
-      "B. Cromosoma",
-      "C. Nucleótido",
-      "D. Alelo"
     ],
     "respuesta_correcta": "A",
     "tema": "ciencias_naturaleza",
@@ -26196,36 +21252,12 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
-    "opciones": [
-      "A. Hierro",
-      "B. Aluminio",
-      "C. Cobre",
-      "D. Plata"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Qué vitamina es esencial para la coagulación de la sangre?",
     "opciones": [
       "A. Vitamina C",
       "B. Vitamina K",
       "C. Vitamina D",
       "D. Vitamina A"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Cuál es el principal componente del gas natural?",
-    "opciones": [
-      "A. Dióxido de carbono",
-      "B. Metano",
-      "C. Propano",
-      "D. Butano"
     ],
     "respuesta_correcta": "B",
     "tema": "ciencias_naturaleza",
@@ -26352,18 +21384,6 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Qué tipo de roca se forma a partir del enfriamiento y solidificación del magma?",
-    "opciones": [
-      "A. Sedimentaria",
-      "B. Ígnea",
-      "C. Metamórfica",
-      "D. Caliza"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Qué glándula endocrina controla el metabolismo corporal?",
     "opciones": [
       "A. Hipófisis",
@@ -26382,18 +21402,6 @@
       "B. Riñón",
       "C. Pulmón",
       "D. Intestino"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué estructura celular contiene el material genético?",
-    "opciones": [
-      "A. Mitocondria",
-      "B. Núcleo",
-      "C. Lisosoma",
-      "D. Retículo endoplásmico"
     ],
     "respuesta_correcta": "B",
     "tema": "ciencias_naturaleza",
@@ -26466,18 +21474,6 @@
       "B. Diferenciación",
       "C. Apoptosis",
       "D. Transcripción"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué partícula subatómica tiene carga positiva?",
-    "opciones": [
-      "A. Electrón",
-      "B. Protón",
-      "C. Neutrón",
-      "D. Positrón"
     ],
     "respuesta_correcta": "B",
     "tema": "ciencias_naturaleza",
@@ -26628,18 +21624,6 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Qué órgano del cuerpo humano produce la insulina?",
-    "opciones": [
-      "A. Hígado",
-      "B. Glándula suprarrenal",
-      "C. Páncreas",
-      "D. Tiroides"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Cuál es el nombre del proceso por el cual las plantas liberan vapor de agua al aire?",
     "opciones": [
       "A. Transpiración",
@@ -26670,18 +21654,6 @@
       "B. Colágeno",
       "C. Celulosa",
       "D. Almidón"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué tipo de energía se libera durante una reacción nuclear?",
-    "opciones": [
-      "A. Cinética",
-      "B. Térmica",
-      "C. Nuclear",
-      "D. Potencial"
     ],
     "respuesta_correcta": "C",
     "tema": "ciencias_naturaleza",
@@ -26844,48 +21816,12 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Qué hormona regula el ciclo menstrual en las mujeres?",
-    "opciones": [
-      "A. Insulina",
-      "B. Adrenalina",
-      "C. Testosterona",
-      "D. Estrógeno"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿Cuál es el nombre de la capa externa sólida de la Tierra?",
     "opciones": [
       "A. Manto",
       "B. Núcleo interno",
       "C. Núcleo externo",
       "D. Corteza"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Cuál es la función principal de la clorofila en las plantas?",
-    "opciones": [
-      "A. Almacenar energía",
-      "B. Absorber dióxido de carbono",
-      "C. Regular el agua",
-      "D. Capturar luz para la fotosíntesis"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué partícula subatómica tiene carga negativa?",
-    "opciones": [
-      "A. Protón",
-      "B. Neutrón",
-      "C. Positrón",
-      "D. Electrón"
     ],
     "respuesta_correcta": "D",
     "tema": "ciencias_naturaleza",
@@ -26910,18 +21846,6 @@
       "B. Fisión binaria",
       "C. Gemación",
       "D. Mitosis"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "dificil"
-  },
-  {
-    "pregunta": "¿Qué tipo de tejido conecta músculos con huesos?",
-    "opciones": [
-      "A. Cartílago",
-      "B. Ligamento",
-      "C. Epitelial",
-      "D. Tendón"
     ],
     "respuesta_correcta": "D",
     "tema": "ciencias_naturaleza",
@@ -27396,18 +22320,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué órgano del cuerpo humano produce insulina?",
-    "opciones": [
-      "A. Hígado",
-      "B. Páncreas",
-      "C. Riñón",
-      "D. Glándula tiroides"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Cuál es el principal gas que constituye la atmósfera terrestre?",
     "opciones": [
       "A. Oxígeno",
@@ -27828,18 +22740,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué mineral es esencial para la formación de la hemoglobina?",
-    "opciones": [
-      "A. Calcio",
-      "B. Zinc",
-      "C. Hierro",
-      "D. Magnesio"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Cuál es el nombre del proceso por el que una célula engulle partículas grandes o microorganismos?",
     "opciones": [
       "A. Pinocitosis",
@@ -28068,36 +22968,12 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué partícula subatómica tiene carga positiva?",
-    "opciones": [
-      "A. Electrón",
-      "B. Neutrón",
-      "C. Positrón",
-      "D. Protón"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Qué fenómeno provoca la formación de olas en el océano?",
     "opciones": [
       "A. Corrientes marinas",
       "B. Marea",
       "C. Temperatura del agua",
       "D. Viento"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Cuál es el principal componente del gas natural?",
-    "opciones": [
-      "A. Etano",
-      "B. Propano",
-      "C. Butano",
-      "D. Metano"
     ],
     "respuesta_correcta": "D",
     "tema": "ciencias_naturaleza",
@@ -28164,48 +23040,12 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Qué mineral es esencial para la contracción muscular?",
-    "opciones": [
-      "A. Zinc",
-      "B. Cobre",
-      "C. Potasio",
-      "D. Calcio"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Cuál es la unidad básica de la vida?",
-    "opciones": [
-      "A. Átomo",
-      "B. Molécula",
-      "C. Orgánulo",
-      "D. Célula"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Qué capa de la atmósfera contiene la capa de ozono?",
     "opciones": [
       "A. Troposfera",
       "B. Mesosfera",
       "C. Termosfera",
       "D. Estratosfera"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "ciencias_naturaleza",
-    "dificultad": "trivia_hell"
-  },
-  {
-    "pregunta": "¿Qué tipo de roca se forma a partir del enfriamiento y solidificación del magma?",
-    "opciones": [
-      "A. Sedimentaria",
-      "B. Metamórfica",
-      "C. Plutónica",
-      "D. Ígnea"
     ],
     "respuesta_correcta": "D",
     "tema": "ciencias_naturaleza",
@@ -28764,36 +23604,12 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿Qué deporte se practica sobre una tabla con vela en el agua?",
-    "opciones": [
-      "A. Kayak",
-      "B. Windsurf",
-      "C. Vela",
-      "D. Surf"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "deportes_pasatiempos",
-    "dificultad": "muy_facil"
-  },
-  {
     "pregunta": "¿Qué pasatiempo consiste en crear imágenes con lápices o pinturas?",
     "opciones": [
       "A. Escultura",
       "B. Dibujo",
       "C. Escritura",
       "D. Fotografía"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "deportes_pasatiempos",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué deporte consiste en deslizarse por una pendiente con esquís?",
-    "opciones": [
-      "A. Snowboard",
-      "B. Esquí",
-      "C. Patinaje",
-      "D. Escalada"
     ],
     "respuesta_correcta": "B",
     "tema": "deportes_pasatiempos",
@@ -28818,18 +23634,6 @@
       "B. Fútbol",
       "C. Rugby",
       "D. Baloncesto"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "deportes_pasatiempos",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué pasatiempo consiste en cuidar peces en un acuario?",
-    "opciones": [
-      "A. Jardinería",
-      "B. Acuarismo",
-      "C. Pesca",
-      "D. Modelado"
     ],
     "respuesta_correcta": "B",
     "tema": "deportes_pasatiempos",
@@ -28998,18 +23802,6 @@
       "B. Balonmano",
       "C. Ultimate frisbee",
       "D. Voleibol"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "deportes_pasatiempos",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué pasatiempo consiste en moldear figuras con arcilla o plastilina?",
-    "opciones": [
-      "A. Pintura",
-      "B. Escritura",
-      "C. Modelado",
-      "D. Fotografía"
     ],
     "respuesta_correcta": "C",
     "tema": "deportes_pasatiempos",
@@ -29256,18 +24048,6 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿Qué deporte se practica lanzándose desde una plataforma alta al agua?",
-    "opciones": [
-      "A. Buceo",
-      "B. Natación",
-      "C. Surf",
-      "D. Clavados"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "deportes_pasatiempos",
-    "dificultad": "muy_facil"
-  },
-  {
     "pregunta": "¿Cuál es el deporte que se juega con un balón redondo y se golpea con la cabeza y los pies?",
     "opciones": [
       "A. Balonmano",
@@ -29310,18 +24090,6 @@
       "B. Natación",
       "C. Gimnasia",
       "D. Atletismo"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "deportes_pasatiempos",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué deporte se juega golpeando una pelota con una raqueta en una mesa pequeña?",
-    "opciones": [
-      "A. Squash",
-      "B. Badminton",
-      "C. Frontón",
-      "D. Tenis de mesa"
     ],
     "respuesta_correcta": "D",
     "tema": "deportes_pasatiempos",
@@ -29466,18 +24234,6 @@
       "B. Esquí",
       "C. Snowboard",
       "D. Surf"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "deportes_pasatiempos",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el pasatiempo que consiste en cultivar plantas y flores?",
-    "opciones": [
-      "A. Jardinería",
-      "B. Cocina",
-      "C. Fotografía",
-      "D. Modelismo"
     ],
     "respuesta_correcta": "A",
     "tema": "deportes_pasatiempos",
@@ -30186,18 +24942,6 @@
       "B. Karate",
       "C. Esgrima",
       "D. Taekwondo"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "deportes_pasatiempos",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el pasatiempo que consiste en bailar para expresar emociones o celebrar?",
-    "opciones": [
-      "A. Música",
-      "B. Teatro",
-      "C. Baile",
-      "D. Escritura"
     ],
     "respuesta_correcta": "C",
     "tema": "deportes_pasatiempos",
@@ -31548,18 +26292,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Qué deporte usa una raqueta para golpear una pelota sobre una red en una cancha rectangular?",
-    "opciones": [
-      "A. Pádel",
-      "B. Squash",
-      "C. Badminton",
-      "D. Tenis"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "deportes_pasatiempos",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Qué tipo de baile combina movimientos rápidos de pies y zapateado con ritmo marcado?",
     "opciones": [
       "A. Salsa",
@@ -32712,23 +27444,11 @@
     "dificultad": "dificil"
   },
   {
-    "pregunta": "¿Cuál es la duración oficial de un partido de rugby union?",
-    "opciones": [
-      "A. 60 minutos",
-      "B. 80 minutos",
-      "C. 90 minutos",
-      "D. 80 minutos divididos en dos mitades"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "deportes_pasatiempos",
-    "dificultad": "dificil"
-  },
-  {
     "pregunta": "¿En qué ciudad se celebraron los primeros Juegos Olímpicos modernos en 1896?",
     "opciones": [
       "A. París",
       "B. Londres",
-      "C. Atenas",
+      "C. Berlín",
       "D. Atenas"
     ],
     "respuesta_correcta": "D",
@@ -32764,7 +27484,7 @@
     "opciones": [
       "A. Esquí de fondo",
       "B. Salto de esquí",
-      "C. Biatlón",
+      "C. Triatlón",
       "D. Biatlón"
     ],
     "respuesta_correcta": "D",
@@ -32788,7 +27508,7 @@
     "opciones": [
       "A. Inglaterra",
       "B. Australia",
-      "C. Nueva Zelanda",
+      "C. Francia",
       "D. Nueva Zelanda"
     ],
     "respuesta_correcta": "D",
@@ -33600,18 +28320,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿En qué ciudad se celebraron los primeros Juegos Olímpicos modernos en 1896?",
-    "opciones": [
-      "A. París",
-      "B. Roma",
-      "C. Atenas",
-      "D. Londres"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "deportes_pasatiempos",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿Cuál es el nombre del trofeo que se otorga al campeón de la Copa Mundial de Rugby?",
     "opciones": [
       "A. Copa América",
@@ -34056,18 +28764,6 @@
     "dificultad": "trivia_hell"
   },
   {
-    "pregunta": "¿Quién fue el primer tenista en ganar los cuatro Grand Slams en un mismo año?",
-    "opciones": [
-      "A. Rafael Nadal",
-      "B. Pete Sampras",
-      "C. Novak Djokovic",
-      "D. Don Budge"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "deportes_pasatiempos",
-    "dificultad": "trivia_hell"
-  },
-  {
     "pregunta": "¿En qué deporte se utiliza el término 'end line' para referirse a la línea de fondo de la cancha?",
     "opciones": [
       "A. Baloncesto",
@@ -34132,7 +28828,7 @@
     "opciones": [
       "A. Slopestyle",
       "B. Halfpipe",
-      "C. Big Air",
+      "C. Kickflip",
       "D. Big Air"
     ],
     "respuesta_correcta": "D",
@@ -34224,54 +28920,6 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿Cuál es el río más largo del mundo?",
-    "opciones": [
-      "A. Amazonas",
-      "B. Nilo",
-      "C. Yangtsé",
-      "D. Misisipi"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de España?",
-    "opciones": [
-      "A. Barcelona",
-      "B. Valencia",
-      "C. Sevilla",
-      "D. Madrid"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿En qué continente está Brasil?",
-    "opciones": [
-      "A. África",
-      "B. Asia",
-      "C. América del Sur",
-      "D. Europa"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Qué país tiene forma de bota?",
-    "opciones": [
-      "A. Grecia",
-      "B. Italia",
-      "C. Portugal",
-      "D. Francia"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
     "pregunta": "¿Qué país tiene la mayor población del mundo?",
     "opciones": [
       "A. India",
@@ -34356,30 +29004,6 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿Cuál es el país más grande del mundo?",
-    "opciones": [
-      "A. Canadá",
-      "B. Estados Unidos",
-      "C. Rusia",
-      "D. China"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Francia?",
-    "opciones": [
-      "A. Londres",
-      "B. Madrid",
-      "C. París",
-      "D. Berlín"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
     "pregunta": "¿En qué país está el monte Fuji?",
     "opciones": [
       "A. Corea del Sur",
@@ -34410,18 +29034,6 @@
       "B. Canadá",
       "C. Australia",
       "D. Estados Unidos"
-    ],
-    "respuesta_correcta": "D",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Italia?",
-    "opciones": [
-      "A. Venecia",
-      "B. Florencia",
-      "C. Milán",
-      "D. Roma"
     ],
     "respuesta_correcta": "D",
     "tema": "geografia",
@@ -34472,18 +29084,6 @@
       "D. América"
     ],
     "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "muy_facil"
-  },
-  {
-    "pregunta": "¿Dónde está el Taj Mahal?",
-    "opciones": [
-      "A. Pakistán",
-      "B. India",
-      "C. Bangladés",
-      "D. Nepal"
-    ],
-    "respuesta_correcta": "B",
     "tema": "geografia",
     "dificultad": "muy_facil"
   },
@@ -34644,18 +29244,6 @@
     "dificultad": "muy_facil"
   },
   {
-    "pregunta": "¿Cuál es el país más pequeño del mundo?",
-    "opciones": [
-      "A. Mónaco",
-      "B. Ciudad del Vaticano",
-      "C. San Marino",
-      "D. Liechtenstein"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué montaña es la más alta del mundo?",
     "opciones": [
       "A. K2",
@@ -34676,30 +29264,6 @@
       "D. Ártico"
     ],
     "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué país tiene más islas?",
-    "opciones": [
-      "A. Canadá",
-      "B. Indonesia",
-      "C. Suecia",
-      "D. Filipinas"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Cuál es el desierto más grande del mundo?",
-    "opciones": [
-      "A. Sahara",
-      "B. Gobi",
-      "C. Kalahari",
-      "D. Antártida"
-    ],
-    "respuesta_correcta": "D",
     "tema": "geografia",
     "dificultad": "facil"
   },
@@ -34752,18 +29316,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Qué país africano tiene forma de triángulo invertido?",
-    "opciones": [
-      "A. Namibia",
-      "B. Sudáfrica",
-      "C. Botsuana",
-      "D. Zimbabue"
-    ],
-    "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Cuál es el país más al norte del mundo?",
     "opciones": [
       "A. Canadá",
@@ -34812,18 +29364,6 @@
     "dificultad": "facil"
   },
   {
-    "pregunta": "¿Cuál es la capital de Canadá?",
-    "opciones": [
-      "A. Toronto",
-      "B. Ottawa",
-      "C. Vancouver",
-      "D. Montreal"
-    ],
-    "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
     "pregunta": "¿Qué río cruza Londres?",
     "opciones": [
       "A. Támesis",
@@ -34832,18 +29372,6 @@
       "D. Elba"
     ],
     "respuesta_correcta": "A",
-    "tema": "geografia",
-    "dificultad": "facil"
-  },
-  {
-    "pregunta": "¿Qué cordillera separa Europa de Asia?",
-    "opciones": [
-      "A. Cáucaso",
-      "B. Urales",
-      "C. Alpes",
-      "D. Apeninos"
-    ],
-    "respuesta_correcta": "B",
     "tema": "geografia",
     "dificultad": "facil"
   },
@@ -35088,18 +29616,6 @@
     "dificultad": "medio"
   },
   {
-    "pregunta": "¿Cuál es el país más joven del mundo?",
-    "opciones": [
-      "A. Kosovo",
-      "B. Timor Oriental",
-      "C. Sudán del Sur",
-      "D. Montenegro"
-    ],
-    "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
     "pregunta": "¿Qué cordillera atraviesa Marruecos, Argelia y Túnez?",
     "opciones": [
       "A. Atlas",
@@ -35120,18 +29636,6 @@
       "D. Chad"
     ],
     "respuesta_correcta": "B",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Qué isla pertenece a tres países?",
-    "opciones": [
-      "A. Borneo",
-      "B. Sumatra",
-      "C. Nueva Guinea",
-      "D. Java"
-    ],
-    "respuesta_correcta": "A",
     "tema": "geografia",
     "dificultad": "medio"
   },
@@ -35336,18 +29840,6 @@
       "D. Oceanía"
     ],
     "respuesta_correcta": "C",
-    "tema": "geografia",
-    "dificultad": "medio"
-  },
-  {
-    "pregunta": "¿Cuál es la capital de Nueva Zelanda?",
-    "opciones": [
-      "A. Auckland",
-      "B. Wellington",
-      "C. Christchurch",
-      "D. Hamilton"
-    ],
-    "respuesta_correcta": "B",
     "tema": "geografia",
     "dificultad": "medio"
   },

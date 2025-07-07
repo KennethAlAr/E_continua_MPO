@@ -141,6 +141,7 @@ def menu_cuestionario(pool_preguntas):
             if cuestionario == "salir":
                 return "salir"
             return cuestionario
+    return "salir"
 
 def mostrar_pregunta(pregunta_cuestionario):
     print(pregunta_cuestionario['pregunta'])

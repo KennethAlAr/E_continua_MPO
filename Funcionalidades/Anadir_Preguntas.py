@@ -104,7 +104,7 @@ def crear_pregunta(pregunta, respuestas, tema, dificultad):
     respuesta_correcta, respuestas_formateadas = desordenar_respuestas(respuestas)
     nueva_pregunta = {
         "pregunta" : pregunta,
-        "respuestas" : respuestas_formateadas,
+        "opciones" : respuestas_formateadas,
         "respuesta_correcta" : respuesta_correcta,
         "tema" : tema,
         "dificultad" : dificultad
@@ -114,10 +114,10 @@ def crear_pregunta(pregunta, respuestas, tema, dificultad):
 def imprimir_pregunta(nueva_pregunta):
     resumen = (f"Pregunta: {nueva_pregunta["pregunta"]}\n"
                f"Respuestas:\n"
-               f"{nueva_pregunta["respuestas"][0]}\n"
-               f"{nueva_pregunta["respuestas"][1]}\n"
-               f"{nueva_pregunta["respuestas"][2]}\n"
-               f"{nueva_pregunta["respuestas"][3]}\n"
+               f"{nueva_pregunta["opciones"][0]}\n"
+               f"{nueva_pregunta["opciones"][1]}\n"
+               f"{nueva_pregunta["opciones"][2]}\n"
+               f"{nueva_pregunta["opciones"][3]}\n"
                f"Respuesta correcta: {nueva_pregunta["respuesta_correcta"]}\n"
                f"Tema: {nueva_pregunta["tema"]}\n"
                f"Dificultad: {nueva_pregunta["dificultad"]}")
@@ -129,7 +129,7 @@ def confirmar_anadir_pregunta(nueva_pregunta, pool_preguntas):
         try:
             print("Este es el resumen de tu pregunta:")
             print(imprimir_pregunta(nueva_pregunta))
-            opcion = int(input("¿Quieres añadirla al catálogo de preguntas?\n1. Si\n2. No"))
+            opcion = int(input("¿Quieres añadirla al catálogo de preguntas?\n1. Si\n2. No\n"))
             match opcion:
                 case 1:
                     print("Añadida pregunta al catálogo de preguntas.")
@@ -228,7 +228,6 @@ Ejemplo:
                     if validar_archivo(nuevas_preguntas):
                         pool_preguntas.extend(nuevas_preguntas)
                         print("Añadida lista de preguntas al catálogo de preguntas.")
-                        print(pool_preguntas)
                 break
             else:
                 break
@@ -237,7 +236,7 @@ Ejemplo:
 
 def menu_nueva_pregunta(pool_preguntas):
     opcion = -1
-    while not opcion == 4:
+    while not opcion == 3:
         try:
             opcion = int(input("""¿Cómo deseas añadir preguntas nuevas?
 1. Añadir pregunta a mano

@@ -4,16 +4,19 @@ from inputimeout import inputimeout, TimeoutOccurred
 import time
 import json
 
-
 def preparar_cuestionario(pool_preguntas):
     cuestionario = []
     lista_preguntas = []
+    #Creamos una copia real de pool_preguntas para no modificar el catálogo de preguntas.
     copia_preguntas = pool_preguntas[:]
+    #Para cada dificultad creamos una lista_preguntas con preguntas que coincidan con esa dificultad y añadimos 4 preguntas
+    #aleatorias de lista_preguntas al cuestionario.
     for dificultad in ["muy_facil", "facil", "medio", "dificil", "trivia_hell"]:
         for pregunta in copia_preguntas:
             if pregunta['dificultad'] == dificultad:
                 lista_preguntas.append(pregunta)
                 copia_preguntas.remove(pregunta)
+        #En caso que no haya preguntas suficientes de una de las dificultades el cuestionario no se puede hacer.
         if len(lista_preguntas) < 4:
             print("No hay suficientes preguntas de todas las dificultades para comenzar el modo ranking")
             return "salir"
@@ -35,6 +38,10 @@ def obtener_respuesta(tiempo_restante):
     while not (respuesta == "A" or respuesta == "B" or respuesta == "C" or respuesta == "D"):
         try:
             tiempo_restante = tiempo_restante -(time.time() - tiempo_inicio)
+            # inputimeout espera una respuesta durante el tiempo indicado y si el tiempo termina devuelve el error 'TimeoutOcurred'.
+            #   En este caso el tiempo es 3 minutos para el test completo, por eso calculamos al inicio de cada bucle el
+            #   tiempo que le queda para terminar el test.
+            #En la función realizar_ranking() se calcula el tiempo restante antes de entrar a cada pregunta.
             input_usuario = inputimeout("¿Cuál es tu respuesta?\n", timeout = tiempo_restante)
             if input_usuario.upper() == "A":
                 respuesta = "A"
@@ -76,23 +83,26 @@ def obtener_nombre(resultado):
 
 def guardar_puntuacion(nombre, resultado):
     archivo = "Puntuaciones/Puntuaciones.json"
+    #Abrimos el archivo puntuaciones.json para volcar los datos en la variable 'datos'.
     with open(archivo, "r") as puntuaciones:
         datos = json.load(puntuaciones)
-
+    #Añadimos el nombre y la puntuación del usuario a la lista de 'datos'.
     datos.append({"nombre": nombre, "puntuacion": resultado})
-
+    #Sobreescribimos el archivo puntuaciones.json con la nueva lista 'datos'.
     with open(archivo, "w") as puntuaciones:
         json.dump(datos, puntuaciones, indent = 2)
     print(f"Puntuación guardada con el nombre '{nombre}'")
 
 def mostrar_posicion(nombre, resultado):
     archivo = "Puntuaciones/Puntuaciones.json"
+    #Abrimos el archivo puntuaciones.json para volcar los datos en la variable 'datos'.
     with open(archivo, "r") as puntuaciones:
         datos = json.load(puntuaciones)
-
+    #Creamos una función para usarla dentro del sort, ya que la lista 'datos' contiene diccionarios y hay que decirle
+    #cómo queremos ordenar los datos.
     def obtener_puntuacion(posicion):
         return posicion['puntuacion']
-
+    #Ordenamos los datos según la puntuación del jugador en orden descendente.
     datos.sort(key=obtener_puntuacion, reverse=True)
 
     for i in range(len(datos)):
@@ -107,6 +117,7 @@ def realizar_ranking(cuestionario):
         return
     for pregunta in cuestionario:
         mostrar_pregunta(pregunta)
+        #Calculamos cuanto tiempo resta para terminar el test antes de realizar cada pregunta.
         tiempo_restante = tiempo_total - (time.time() - tiempo_inicio)
         correccion = corregir_pregunta(obtener_respuesta(tiempo_restante), pregunta)
         if correccion == "salir":
@@ -121,10 +132,14 @@ def realizar_ranking(cuestionario):
 
 def mostrar_top10():
     archivo = "Puntuaciones/Puntuaciones.json"
+    # Abrimos el archivo puntuaciones.json para volcar los datos en la variable 'datos'.
     with open(archivo, "r") as puntuaciones:
         datos = json.load(puntuaciones)
+    # Creamos una función para usarla dentro del sort, ya que la lista 'datos' contiene diccionarios y hay que decirle
+    # cómo queremos ordenar los datos.
     def obtener_puntuacion(posicion):
         return posicion['puntuacion']
+    # Ordenamos los datos según la puntuación del jugador en orden descendente.
     datos.sort(key=obtener_puntuacion, reverse=True)
     lista_top10 = []
     if len(datos) >= 10:
@@ -134,6 +149,7 @@ def mostrar_top10():
     for i in range(rango):
         lista_top10.append(datos[i])
     print("### TOP 10 ###")
+    # Si no hay puntuaciones suficientes para mostrar en el TOP10, se muestra una cadena de guiones.
     for i in range (10):
         try:
             print(f"TOP{(i+1)} - {lista_top10[i]['nombre']} - {lista_top10[i]['puntuacion']:.2f} puntos")

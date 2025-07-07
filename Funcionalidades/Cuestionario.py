@@ -112,7 +112,7 @@ def crear_cuestionario(tema, dificultad, pool_preguntas):
                 pool_cuestionario.append(pregunta)
             elif pregunta['tema'] == tema:
                 pool_cuestionario.append(pregunta)
-    #Comprobamos si hay preguntas sobre el tema y la dificultad escogidos.
+    #Comprobamos si hay preguntas sobre el tema y la dificultad escogidas.
     if len(pool_cuestionario) == 0:
         print("No hay preguntas sobre el tema escogido en la dificultad escogida.")
         return "salir"
@@ -155,6 +155,10 @@ def obtener_respuesta():
     while not (respuesta == "A" or respuesta == "B" or respuesta == "C" or respuesta == "D"):
         try:
             tiempo_restante = tiempo_respuesta -(time.time() - tiempo_inicio)
+            #inputimeout espera una respuesta durante el tiempo indicado y si el tiempo termina devuelve el error 'TimeoutOcurred'.
+            #   En este caso el tiempo es 10 segundos, pero como la respuesta del usuario puede no ser válida, calculamos al
+            #   inicio de cada bucle el tiempo que le queda para responder la pregunta. Así evitamos que puede poner un input no
+            #   válido y se reinicie el tiempo de la pregunta.
             input_usuario = inputimeout("¿Cuál es tu respuesta?\n", timeout = tiempo_restante)
             if input_usuario.upper() == "A":
                 respuesta = "A"

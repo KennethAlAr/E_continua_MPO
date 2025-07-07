@@ -5,6 +5,9 @@ from Funcionalidades.Anadir_Preguntas import menu_nueva_pregunta
 from Funcionalidades.Ranking import menu_ranking
 
 pool_preguntas = []
+#Añadimos un catálogo de preguntas generado previamente para probar las funciones de la aplicación.
+#    Se puede comentar la línea 11 y 12 para probar más fácilmente el funcionamiento de la aplicación cuando no hay suficientes
+#    preguntas o se quieren añadir nuevas.
 with open ("Pool_Preguntas/Preguntas.json", encoding="utf-8") as preguntas:
     pool_preguntas = json.load(preguntas)
 

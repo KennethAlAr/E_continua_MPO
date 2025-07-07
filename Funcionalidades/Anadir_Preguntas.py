@@ -86,11 +86,13 @@ def desordenar_respuestas(respuestas):
     respuesta_correcta = -1
     lista_opciones = ["A. ", "B. ", "C. ", "D. "]
     lista_respuestas = ["A", "B", "C", "D"]
+    #Añadimos las respuestas de manera desordenada para que la opción correcta aparezca en una posición aleatoria.
     for i in range(4):
         eleccion = random.choice(copia_respuestas)
         respuestas_formateadas.append(eleccion)
         copia_respuestas.remove(eleccion)
     for respuesta in respuestas_formateadas:
+        # Guardamos la posición de la respuesta correcta para usarla más tarde.
         if respuesta == respuestas[0]:
             respuesta_correcta = respuestas_formateadas.index(respuesta)
     for i in range (4):
@@ -142,7 +144,7 @@ def confirmar_anadir_pregunta(nueva_pregunta, pool_preguntas):
             print("Opción no válida, por favor introduce una de las opciones de la lista.")
 
 def gestion_nueva_pregunta(pool_preguntas):
-    pregunta, respuestas, tema, dificultad =input_nueva_pregunta()
+    pregunta, respuestas, tema, dificultad = input_nueva_pregunta()
     nueva_pregunta = crear_pregunta(pregunta, respuestas, tema, dificultad)
     confirmar_anadir_pregunta(nueva_pregunta, pool_preguntas)
 
@@ -153,29 +155,42 @@ Pool_Preguntas/Ejemplo_importar_preguntas.json\n""")
 
 def validar_archivo(lista_preguntas):
     for pregunta in lista_preguntas:
+        #Comprobamos que cada elemento de la lista es un diccionario.
         if not isinstance(pregunta, dict):
             print("Error al importar el archivo. Alguna pregunta no cumple el formato específicado.")
             return False
+        #Comprobamos que cada elemento contiene las claves de la lista 'claves_preguntas'.
         claves_preguntas = ["pregunta", "opciones", "respuesta_correcta", "tema", "dificultad"]
         for clave in claves_preguntas:
             if clave not in pregunta:
                 print(f"Error al importar el archivo, falta la clave '{clave}'.")
                 return False
+        #Comprobamos que el valor de 'opciones' es una lista de tamaño 4.
         if not isinstance(pregunta['opciones'], list) or not len(pregunta['opciones']) == 4:
             print("Error al importar el archivo, las respuestas de la pregunta no cumplen el formato especificado.")
             return False
+        #Comprobamos que la respuesta correcta es una de entre las válidas
         if not (pregunta['respuesta_correcta'] in ["A", "B", "C", "D"]):
             print("Error al importar el archivo. El valor de 'respuesta correcta' no es válido.")
             return False
+        #Comprobamos que el tema de la pregunta es uno de entre los válidos.
         if not (pregunta['tema'] in ["geografia", "arte_literatura", "historia", "entretenimiento", "ciencias_naturaleza", "deportes_pasatiempos"]):
             print("Error al importar el archivo. El valor de 'tema' no es válido.")
             return False
+        #Comprobamos que la dificultad de la pregunta es una entre las válidas.
         if not (pregunta['dificultad'] in ["muy_facil", "facil", "medio", "dificil", "trivia_hell"]):
             print("Error al importar el archivo. El valor de 'tema' no es válido.")
             return False
     return True
 
 def importar_archivo(pool_preguntas):
+    #Explicación de como se debe formatear el archivo .json o .txt para poder importar preguntas.
+    #    La ruta del archivo debe ser relativa al archivo 'Generador_Cuestionarios.py'.
+    #    Hay dos archivos de prueba dentro de la carpeta 'Pool_Preguntas' para poder probar esta función fácilmente:
+    #        Ejemplo_importar_preguntas.json
+    #        Ejemplo_importar_preguntas.txt
+    #En ambos casos (archivo .json o .txt) se importan los archivos del mismo modo,
+    #con el json.load(archivo.json/archivo.txt) ya que la importación depende del formato del texto.
     print("""Importando archivo .json o .txt. El archivo debe contener una lista de diccionarios con el siguiente formato:
 [
   {

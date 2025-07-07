@@ -11,21 +11,23 @@ def preparar_cuestionario(pool_preguntas):
     copia_preguntas = pool_preguntas[:]
     for dificultad in ["muy_facil", "facil", "medio", "dificil", "trivia_hell"]:
         for pregunta in copia_preguntas:
-            if pregunta["dificultad"] == dificultad:
+            if pregunta['dificultad'] == dificultad:
                 lista_preguntas.append(pregunta)
+                copia_preguntas.remove(pregunta)
         if len(lista_preguntas) < 4:
             print("No hay suficientes preguntas de todas las dificultades para comenzar el modo ranking")
             return "salir"
         for i in range(4):
-            pregunta = random.choice(copia_preguntas)
+            pregunta = random.choice(lista_preguntas)
             cuestionario.append(pregunta)
-            copia_preguntas.remove(pregunta)
+            lista_preguntas.remove(pregunta)
         lista_preguntas.clear()
     return cuestionario
 
 def mostrar_pregunta(pregunta_cuestionario):
     print(pregunta_cuestionario['pregunta'])
-    print(pregunta_cuestionario['opciones'])
+    for opcion in pregunta_cuestionario['opciones']:
+        print(opcion)
 
 def obtener_respuesta(tiempo_restante):
     respuesta = ""
@@ -52,7 +54,7 @@ def obtener_respuesta(tiempo_restante):
 def corregir_pregunta(respuesta, pregunta):
     if respuesta == "salir":
         return "salir"
-    elif respuesta == pregunta["respuesta_correcta"]:
+    elif respuesta == pregunta['respuesta_correcta']:
         print("¡Respuesta correcta!")
         return 1
     else:
@@ -89,12 +91,12 @@ def mostrar_posicion(nombre, resultado):
         datos = json.load(puntuaciones)
 
     def obtener_puntuacion(posicion):
-        return posicion["puntuacion"]
+        return posicion['puntuacion']
 
     datos.sort(key=obtener_puntuacion, reverse=True)
 
     for i in range(len(datos)):
-        if datos[i]["nombre"] == nombre and datos[i]["puntuacion"] == resultado:
+        if datos[i]['nombre'] == nombre and datos[i]['puntuacion'] == resultado:
             print(f"{nombre}, estás en la posicion {(i+1)} del ranking con {resultado:.2f} puntos")
 
 def realizar_ranking(cuestionario):
@@ -122,7 +124,7 @@ def mostrar_top10():
     with open(archivo, "r") as puntuaciones:
         datos = json.load(puntuaciones)
     def obtener_puntuacion(posicion):
-        return posicion["puntuacion"]
+        return posicion['puntuacion']
     datos.sort(key=obtener_puntuacion, reverse=True)
     lista_top10 = []
     if len(datos) >= 10:
@@ -134,7 +136,7 @@ def mostrar_top10():
     print("### TOP 10 ###")
     for i in range (10):
         try:
-            print(f"TOP{(i+1)} - {lista_top10[i]["nombre"]} - {lista_top10[i]["puntuacion"]:.2f} puntos")
+            print(f"TOP{(i+1)} - {lista_top10[i]['nombre']} - {lista_top10[i]['puntuacion']:.2f} puntos")
         except IndexError:
             print(f"TOP{(i+1)} - ----------")
 

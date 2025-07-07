@@ -112,15 +112,15 @@ def crear_pregunta(pregunta, respuestas, tema, dificultad):
     return nueva_pregunta
 
 def imprimir_pregunta(nueva_pregunta):
-    resumen = (f"Pregunta: {nueva_pregunta["pregunta"]}\n"
+    resumen = (f"Pregunta: {nueva_pregunta['pregunta']}\n"
                f"Respuestas:\n"
-               f"{nueva_pregunta["opciones"][0]}\n"
-               f"{nueva_pregunta["opciones"][1]}\n"
-               f"{nueva_pregunta["opciones"][2]}\n"
-               f"{nueva_pregunta["opciones"][3]}\n"
-               f"Respuesta correcta: {nueva_pregunta["respuesta_correcta"]}\n"
-               f"Tema: {nueva_pregunta["tema"]}\n"
-               f"Dificultad: {nueva_pregunta["dificultad"]}")
+               f"{nueva_pregunta['opciones'][0]}\n"
+               f"{nueva_pregunta['opciones'][1]}\n"
+               f"{nueva_pregunta['opciones'][2]}\n"
+               f"{nueva_pregunta['opciones'][3]}\n"
+               f"Respuesta correcta: {nueva_pregunta['respuesta_correcta']}\n"
+               f"Tema: {nueva_pregunta['tema']}\n"
+               f"Dificultad: {nueva_pregunta['dificultad']}")
     return resumen
 
 def confirmar_anadir_pregunta(nueva_pregunta, pool_preguntas):
@@ -161,16 +161,16 @@ def validar_archivo(lista_preguntas):
             if clave not in pregunta:
                 print(f"Error al importar el archivo, falta la clave '{clave}'.")
                 return False
-        if not isinstance(pregunta["opciones"], list) or not len(pregunta["opciones"]) == 4:
+        if not isinstance(pregunta['opciones'], list) or not len(pregunta['opciones']) == 4:
             print("Error al importar el archivo, las respuestas de la pregunta no cumplen el formato especificado.")
             return False
-        if not (pregunta["respuesta_correcta"] in ["A", "B", "C", "D"]):
+        if not (pregunta['respuesta_correcta'] in ["A", "B", "C", "D"]):
             print("Error al importar el archivo. El valor de 'respuesta correcta' no es válido.")
             return False
-        if not (pregunta["tema"] in ["geografia", "arte_literatura", "historia", "entretenimiento", "ciencias_naturaleza", "deportes_pasatiempos"]):
+        if not (pregunta['tema'] in ["geografia", "arte_literatura", "historia", "entretenimiento", "ciencias_naturaleza", "deportes_pasatiempos"]):
             print("Error al importar el archivo. El valor de 'tema' no es válido.")
             return False
-        if not (pregunta["dificultad"] in ["muy_facil", "facil", "medio", "dificil", "trivia_hell"]):
+        if not (pregunta['dificultad'] in ["muy_facil", "facil", "medio", "dificil", "trivia_hell"]):
             print("Error al importar el archivo. El valor de 'tema' no es válido.")
             return False
     return True

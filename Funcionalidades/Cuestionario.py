@@ -145,7 +145,8 @@ def menu_cuestionario(pool_preguntas):
 
 def mostrar_pregunta(pregunta_cuestionario):
     print(pregunta_cuestionario['pregunta'])
-    print(pregunta_cuestionario['opciones'])
+    for opcion in pregunta_cuestionario['opciones']:
+        print(opcion)
 
 def obtener_respuesta():
     respuesta = ""
